@@ -1,0 +1,16 @@
+
+* 2023
+** 2023-02 February
+*** 2023-02-11 Saturday
+**** Test entry
+Entered on [2023-02-11 Sat 12:17]
+
+  [[file:~/tmp/manuscript.org::+title: Manuscript]]
+
+  This is a test entry.
+**** Org Hournal test
+Entered on [2023-02-11 Sat 20:18]
+
+  [[file:~/org/inbox/inbox.org::*Introduction][Introduction]]
+
+  Test entry for Org Jornal.

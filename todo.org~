@@ -1,0 +1,270 @@
+* ToDo list
+# Main ToDo file. Content is picked up by Org Agenda.
+
+** Primary contract goals
+
+*** TODO List of completed tasks (monthly) for Lydia
+    :LOGBOOK:
+    - State "TODO"       from              [2019-06-10 Mon 11:04] \\
+      List of completed tasks (monthly) for Lydia.
+    :END:
+
+*** TODO Migrate all Contentx Engineering content into Confluence
+    :LOGBOOK:
+    - State "TODO" from              [2019-06-10 Mon 11:05] \\
+      Migrate all Contentx Engineering content into Confluence
+    :END:
+
+  ================================================================================
+  ================================================================================
+
+** ContentX Engineering
+
+*** IN-PROGRESS [[https://gus.lightning.force.com/lightning/r/ADM_Work__c/a07B0000006cNo2IAE/view][W-6246923]] Import into Confluence the Doc Build content from Mark's Quip doc
+    :LOGBOOK:
+    - State "IN-PROGRESS" from "IN-PROGRESS" [2019-06-18 Tue 15:20] \\
+      - Completed topic creation and content copy-paste (from imported docs to new
+        topics)
+      - Restructured doc build hierarchy
+      - Began working through style, tone, etc.
+    - State "IN-PROGRESS" from "TODO"       [2019-06-17 Mon 15:33] \\
+      Started work on this towards the end of last week.
+    - State "TODO"       from              [2019-06-17 Mon 15:09] \\
+      Created user story to import Mark's doc build content from Quip into the CXEng
+      Confluence space.  Sent note to Ed.
+    :END:
+
+*** TODO Document DocAPI from the users' perspective.
+    :LOGBOOK [ ] Contact Sam/Ed re next step--reviewing user stories with Engineers?
+
+*** DONE Set up Quip import tool 'Metro'. [2/2]
+    CLOSED: [2019-06-10 Mon 15:38]
+    :LOGBOOK:
+    - State "DONE"       from "IN-PROGRESS" [2019-06-10 Mon 15:38] \\
+      Successfully imported a Markdown document exported from Quip using the Metro
+      tool.
+
+      Command line:
+
+      ~./import_pages -z ~/working/tmp/quipmd/md-archive.zip -p 127669472 -u drew.hodge
+      INFO:root:Authenticating as drew.hodge
+      INFO:root:Connected to https://confluence.internal.salesforce.com (v6.6.7)
+      INFO:root:Created new page "ContentX Eng--information architecture notes" (id = 127669482) under parent "Imported Quip Docs"~
+    - State "TODO"       from              [2019-06-10 Mon 10:59] \\
+      Set up Quip import tool 'Metro'.
+    :END:
+    - [X] Review Metro instructions.
+    - [X] Test import process
+
+*** IN-PROGRESS ContentX Eng space--review and restructure IA [0/2]
+    :LOGBOOK:
+    - State "TODO"       from "TODO"       [2019-06-10 Mon 15:32] \\
+      * Continuing to work on this on and off.
+          * 27.May.2019--spent time on CXEng Confluence space home page layout;
+            gathered support, planning, and troubleshooting docs into their own
+            'info' areas on the home page; added icons
+    - State "TODO"       from              [2019-06-10 Mon 15:27] \\
+      ContentX Eng space--review and restructure IA
+    :END:
+    - [ ] Home page layout
+    - [ ] Chatter post re review of CXEng home page layout
+
+*** TODO `W-583343` (user story) ftests
+    :LOGBOOK:
+    - State "TODO"       from              [2019-06-10 Mon 15:31] \\
+      `W-583343` (user story) ftests
+
+      [W-5832242--ftest documentation](file:///Users/drew.hodge/working/ftest-documentation/ftest-user-story-notes.md) also see [Remote Builds and ftests](https://salesforce.quip.com/ARwsAFYDvi51)
+
+          ## Status
+          Plan to link ftest references with their associated DITA topics in
+          the new CCX Confluence space when Stefanie A has templates ready
+    :END:
+
+*** TODO `W-5826471` generic event mapping
+    :LOGBOOK:
+    - State "TODO"       from              [2019-06-10 Mon 15:33] \\
+      `W-5826471` generic event mapping
+    :END:
+
+*** TODO In-App Help--UA Walkthroughs
+    :LOGBOOK:
+    - State "TODO"       from              [2019-06-10 Mon 15:33] \\
+      In-App Help--UA Walkthroughs
+    :END:
+
+*** IN-PROGRESS <<W-4359885>> Improve international user experience for localized help.
+    :LOGBOOK:
+    - State "IN-PROGRESS" from "IN-PROGRESS" [2019-06-17 Mon 15:18] \\
+      When users are logged in to H&T they cannot change the site language.  Made
+      three suggestions to wording to remove reference to the 'language picker' and to
+      let users know they need to log out to change the site language. Rafaella is
+      getting the text reviewed by Japanese localizers.
+    - State "IN-PROGRESS"       from "DONE"       [2019-06-13 Thu 10:42] \\
+      Reopened this task. The doc build process can't yet create links automatically
+      from localized content to the latest English version. See Mark's comment in
+      [[https://gus.lightning.force.com/lightning/r/ADM_Work__c/a07B00000042L75IAE/view][W-4359885]]. Have to update and resubmit a UI Text Review request.
+    - State "DONE"       from "IN-PROGRESS" [2019-06-11 Tue 12:05] \\
+      Marked as complete.
+    - State "IN-PROGRESS" from "IN-PROGRESS" [2019-06-11 Tue 11:59] \\
+      <2019-06-10 Mon> Read note from Chris Myers saying that I can consider the UI
+      Text review 'signed-off'. Set the work item Text Status to "Ready for
+      Developer".
+    - State "IN-PROGRESS" from "TODO"       [2019-06-10 Mon 15:34] \\
+      [W-4359885](https://gus.lightning.force.com/lightning/r/ADM_Work__c/a07B00000042L75IAE/view)
+
+           ## Status
+           * 29.May.2019 Not started, but made a suggestion for rewording
+           around the link to the English version--avoiding the modal verb 'might'.
+           * 04.Jun.2019 responded to Sam's comment about getting text reviewed by the
+           UI Text Review team.  I want to familiarize myself with their FAQ and
+           review process before proceeding. [UI Text
+           Reviews](https://gus.lightning.force.com/lightning/r/CollaborationGroup/0F9B000000006XIKAY/view)
+           * 05.Jun.2019 Read through the guidelines, templates, and FAQs for
+           requesting a UI Text Review. Prepared a UI Text Review request per the
+           review team's guidelines. Posted a question with a link to the request and
+           mentioned Chris Myers specifically.
+           * 07.Jun.2019 Asked Chris whether I need a formal sign-off before taking
+            the text back to Sam.
+    - State "TODO"       from              [2019-06-10 Mon 15:34] \\
+      `W-4359885` Improve international user experience for localized help.
+    :END:
+
+*** DONE [[https://gus.lightning.force.com/lightning/r/ADM_Work__c/a07B0000006v90PIAQ/view][W-6201965]] Collaborate on text for BlackJack/AirGap 'page unavailable' UI text
+    CLOSED: [2019-06-17 Mon 15:15]
+    :LOGBOOK:
+    - State "DONE"       from "IN-PROGRESS" [2019-06-17 Mon 15:15] \\
+      Don't think there's any more for me to do after changing the UI Text status to
+      'ready for developer'.
+    - State "TODO"       from              [2019-06-17 Mon 15:12] \\
+      Worked on [[https://gus.lightning.force.com/lightning/r/ADM_Work__c/a07B0000006v90PIAQ/view][W-6201965]]--UI text for BlackJack/AirGap 404 'page unavailable'.
+      Updated work item; set UI text status to 'ready for developer'; added link to
+      Google doc that Chris, Sam, and I reviewed on [2019-06-14 Fri].
+    :END:
+
+  ================================================================================
+  ================================================================================
+
+** NextGen
+
+*** IN-PROGRESS W-5900432` Git workflows
+    :LOGBOOK:
+    - State "IN-PROGRESS" from "TODO"       [2019-06-10 Mon 15:36] \\
+      [W-5900432](file:///Users/drew.hodge/salesforce/vsnotes/contentxeng/workitems/userstories/2019-03-01_11-05_W-5900432-git-workflows.md)
+
+          ## Status
+          * Had an introductory meeting with Paul and Laura re Commerce Cloud Git
+            workflow on 17.May.
+          * Reviewed notes from Friday's meeting and wrote summary.
+          * Need to get a better idea of the Next Gen requirements regarding Git
+            workflow docs.
+          * 31.May.2019 eceived a response from Jeannie.  She said that there isn't
+          anything on the info model work to be documented yet; Yas is on leave (???);
+          Mark is leaving Salesforce on 30th June--he might need help with
+          documentation; Jeannie will invite me to NextGen meetings as needed.
+    - State "TODO"       from              [2019-06-10 Mon 15:36] \\
+      W-5900432` Git workflows
+    :END:
+
+  ================================================================================
+  ================================================================================
+
+** Content Experience
+
+*** TODO <<W-6259621>> New topic--describe how to add ditamap a link to a PDF :ATTACH:
+    :PROPERTIES:
+    :Attachments: Adding%20a%20PDF%20link.mhtml
+    :ID:       6DC42F10-4D46-435C-9B2C-0BC1D8268753
+    :END:
+    :LOGBOOK:
+    - State "TODO"       from              [2019-06-19 Wed 12:03] \\
+      Consolidate into a single task info about building and linking to a PDF in a
+      ditamap.
+
+      See links in attached file.
+
+      From email thread between Sam and Mersedeh:
+
+      **Mersedeh**: I first looked here:
+      https://sites.google.com/a/salesforce.com/documentation-group/Home/checklist-for-checking-in-files/writing-tip-sheets
+
+
+      Then I thought it would be somewhere here:
+      https://confluence.internal.salesforce.com/display/DOCTEAM/How+to+Add+a+Ditamap+to+a+Build+Definition+File
+
+      But it would never have occurred to me to look where you sent me to. Like, I'd
+      just expect a lone topic "create a PDF of a ditamap" that tells you all the
+      steps A to Z: from adding a ditamap to the build definition to adding the link
+      to the topic.
+
+      **Sam**: This page details how to link to a PDF that's generated from a build
+      definition: https://confluence.internal.salesforce.com/display/DOCSTYLE/xref
+
+      <xref format="pdf" href="salesforce_assets_cheatsheet.pdf"
+      otherprops="on_server" scope="external" type="new-window:PDF">Getting Started
+      with Assets</xref>
+
+      Your build definition decides what the PDF file name will be. Unless you use the
+      param that renames it, the ditamap name becomes the PDF name.
+    :END:
+
+*** IN-PROGRESS `W-6020866` Update instructions for creating a feature/project branch
+    :LOGBOOK:
+    - State "IN-PROGRESS" from "IN-PROGRESS" [2019-06-19 Wed 11:35] \\
+      While checking status of my request for bug templates for creating and closing
+      Perforce feature branch, I noticed that [[https://gus.lightning.force.com/lightning/r/ADM_Work__c/a07B0000006LibNIAS/view][W-6147629]] is now closed. Added a comment
+      asking Srilatha to point me to the templates.
+    - State "IN-PROGRESS" from "IN-PROGRESS" [2019-06-11 Tue 11:58] \\
+      Added comment to Chatter feed for [[https://gus.lightning.force.com/one/one.app#eyJjb21wb25lbnREZWYiOiJmb3JjZUNoYXR0ZXI6ZGVza3RvcENoYXR0ZXIiLCJhdHRyaWJ1dGVzIjp7ImZlZWRFbGVtZW50SWQiOiIwRDVCMDAwMDAwc0tLYm4ifSwic3RhdGUiOnt9fQ%3D%3D][W-6147629]] to ask about progress.
+    - State "IN-PROGRESS" from "IN-PROGRESS" [2019-06-11 Tue 11:48] \\
+      Sent email to Sabine to let her know the status of this task:
+
+      "I've been in touch with Srilatha Ranga on the Core Central Ops team about
+      getting updated templates for creating and closing feature branches. She was
+      assigned the task in a new work item: W-6147629. Srilatha had to speak to an
+      engineer who's been away for a couple of weeks, but was back to work yesterday,
+      so I'll remind her about my request and I might hear something soon."
+    - State "IN-PROGRESS" from "TODO"       [2019-06-10 Mon 15:37] \\
+      Migrate from Doc Wiki to Confluence
+        [W-6020866](https://gus.lightning.force.com/lightning/r/ADM_Work__c/a07B0000006VFyOIAW/view)
+
+        ## Status
+        * Received response from Rajeev Tiwari re bug templates for requesting
+          autointegration and branch closure. See emails from Babu.
+        * Sriratha Ranga--sent her a note suggesting a short meeting to talk about
+          what's needed.
+        * Met with Srilatha (23.May.2019) to talk about bug
+          template writers will have to use to request these Perforce actions.  She is
+          consulting members of the SCM team.
+        * Responded to Srilatha clarifying what I'm asking for.
+    - State "TODO"       from              [2019-06-10 Mon 15:36] \\
+      `W-6020866` Update instructions for creating a feature/project branch
+    :END:
+
+*** IN-PROGRESS Prepare STS for API doc workflow automation
+    :LOGBOOK:
+    - State "IN-PROGRESS" from "TODO"       [2019-06-10 Mon 15:38] \\
+      Shared Quip doc with Lydia.
+
+          ## Status
+          Sent draft 'requirements' doc to Philip
+    - State "TODO"       from              [2019-06-10 Mon 15:37] \\
+      Prepare STS for API doc workflow automation
+    :END:
+
+  ================================================================================
+  ================================================================================
+
+** Other tasks
+
+ =================================================================================
+ =================================================================================
+
+** For archiving
+
+* One
+** Two
+*** Three
+**** Four
+***** Five
+****** Six
