@@ -1,0 +1,1105 @@
+* [[https://falasafaz.wordpress.com/2014/05/22/how-to-read-philosophy/][How to Read Philosophy | falasafaz!]] :philosophy:
+* [[https://xwmx.github.io/nb/#home][nb · command line and local web plain text note-taking, bookmarking, archiving, and knowledge base application]] :2023jan26:cli:favorites:notetaking:tools:
+* [[https://geometerscircle.com/][The Geometer's Circle • Geometers Circle]] :Art:maths:
+* [[https://www.thoughtco.com/][ThoughtCo.com is the World's Largest Education Resource]] :humanities:maths:philosophy:research:science:
+* [[https://catholic-resources.org/index.html][Catholic Resources - Felix Just, S.J.]] :christianity:theology:
+* [[https://conciliarpost.com/][Home — Conciliar Post]] :christianity:philosophy:theology:
+* [[https://ctcamp.franklinresearch.uga.edu/medieval-manuscripts-getting-started][Medieval Manuscripts: Getting Started | Cynthia Turner Camp]] :manuscripts:
+* [[https://auchinleck.nls.uk/index.html][The Auchinleck Manuscript : National Library of Scotland]] :manuscripts:
+* [[http://web.ceu.hu/medstud/manual/MMM/home.html][Medieval Manuscript Manual]] :manuscripts:
+* [[https://ffoz.org/info/about.html][About | First Fruits of Zion]] :christianity:messianic_judaism:theology:
+* [[https://morelifehealth.com/articles/regaining-flexibility-guide][Regaining Flexibility After 60 | A Step by Step Guide — More Life Health - Seniors Health & Fitness]] :2023jan26:healing:health:retirement:
+* [[https://www.alllanguageresources.com/learning-latin/#page][Learning Latin Made Simple(r): A Self-Study Guide]] :2023jan26:latin:
+* [[https://www.fluentin3months.com/speak-latin/][How to speak Latin]] :2023jan26:latin:
+* [[https://tabella.ie/index.php/lessons/][Lessons – Tabella]] :2023jan26:latin:
+* [[https://www.nationalarchives.gov.uk/latin/][Learn medieval Latin - Latin]] :2023jan26:latin:
+* [[https://lrc.la.utexas.edu/eieol/latol][Introduction to Latin]] :2023jan26:latin:
+* [[https://www.youtube.com/playlist?list=PLXHESbgR_XgGgDwTED66S9qthoBWDJcTL][Linney's Latin Class]] :2023jan26:latin:
+* [[https://www.thelatinlibrary.com/101/][Latin Handouts]] :2023jan26:latin:
+* [[https://www.thelatinlibrary.com/][The Latin Library]] :2023jan26:latin:
+* [[https://www.thelatinlibrary.com/decl.html][Latin Declension]] :2023jan26:latin:
+* [[https://classics.osu.edu/Undergraduate-Studies/Latin-Program/Grammar][Latin Grammar | Department of Classics]] :2023jan26:latin:
+* [[https://latin-dictionary.net/grammar][Latin Grammar Resources - Latin Dictionary and Grammar Resources - Latdict]] :2023jan26:latin:
+* [[https://www.youtube.com/c/latintutorial/featured][latintutorial]] :2023jan26:latin:
+* [[https://www.youtube.com/playlist?list=PLEE440D6A8DCBA478][The London Latin Course]] :2023jan26:latin:
+* [[https://latin-words.com/][Whitaker's WORDS Online]] :2023jan26:latin:
+* [[https://www.online-latin-dictionary.com/][ONLINE LATIN DICTIONARY]] :2023jan26:latin:
+* [[https://latin-dictionary.net/][Latin Dictionary and Grammar Resources - Latdict]] :2023jan26:latin:
+* [[https://www.preces-latinae.org/thesaurus/Introductio/Pronunciatio.html][How to Pronounce Latin]] :2023jan26:latin:
+* [[https://www.mezzoguild.com/how-to-learn-latin/][How To Learn Latin: Complete Guide + Best Courses And Books]] :2023jan26:latin:
+* [[https://www.textkit.com/greek-latin-forum/index.php][Textkit Greek and Latin Forums - Index page]] :2023jan26:latin:
+* [[https://www.biblicalarchaeology.org/][Home - Biblical Archaeology Society]] :christianity:
+* [[https://latinitium.com/first-day-of-learning-latin-what-to-do/][First day of learning Latin: what to do | Latinitium]] :2023jan26:latin:
+* [[https://www.youtube.com/watch?v=XeqTuPZv9as][(102) Ecclesiastical Latin vs Classical Pronunciation History | Latin: The Immortal Language - YouTube]] :2023jan26:latin:
+* [[https://www.youtube.com/watch?v=Cy3o4zWmCKg&list=PLQQL5IeNgck2Ytcf9Sz3OSTVFe7MOM7u9&index=23][(102) Latin Language: How & Why to Learn Latin | Lingua Latina Per Se Illustrata - YouTube]] :2023jan26:latin:
+* [[https://www.youtube.com/watch?v=x-Y2FHLGhEY&list=PLQQL5IeNgck2Ytcf9Sz3OSTVFe7MOM7u9&index=38][(102) How to say YES & NO in Latin - YouTube]] :2023jan26:latin:
+* [[https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV][(102) Lingua Latina Per Se Illustrata - YouTube]] :2023jan26:latin:
+* [[https://www.youtube.com/playlist?list=PLU1WuLg45SizQQ5VwufQbCB9rL-Z3VIUJ][(102) How to Pronounce Latin & Greek | Dē Rēctā Latīnī Graecīque Sermōnis Prōnūntiātiōne - YouTube]] :2023jan26:latin:
+* [[https://latinitium.com/latin-dictionaries/][Dictionaries | Latinitium]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2019/08/11/7-latin-lessons-from-compline/][8 Latin Lessons from Compline – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2019/05/26/conquer-latin-3-tips/][Conquer Latin: 3 Tips – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2019/06/14/latin-vs-english-the-big-difference/][Latin vs. English: The Big Difference – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2019/06/19/to-not-know-latin/][To NOT Know Latin – Learn Church Latin]] :2023jan26:latin:
+* [[https://babel.hathitrust.org/cgi/pt?id=nyp.33433075922132&view=1up&seq=7][#7 - The mantrina, a Latin primer especially adapted to the Missal ... - Full View | HathiTrust Digital Library]] :2023jan26:latin:
+* [[https://babel.hathitrust.org/cgi/pt?id=uc1.b4089959&view=2up&seq=6&skin=2021][#6 - An introduction to liturgical Latin, by A. M. Scarre. - Full View | HathiTrust Digital Library]] :2023jan26:latin:
+* [[https://babel.hathitrust.org/cgi/pt?id=mdp.39015005116366&view=1up&seq=7&skin=2021][#7 - The new Missal Latin; a two-year course based on ... v.1. - Full View | HathiTrust Digital Library]] :2023jan26:latin:
+* [[https://babel.hathitrust.org/cgi/pt?id=njp.32101056309295&view=1up&seq=3][Church Latin for beginners; an elementary course of exercises ... - Limited View | HathiTrust Digital Library]] :2023jan26:latin:
+* [[https://babel.hathitrust.org/cgi/pt?id=iau.31858007054483&view=2up&seq=6&size=125][Latin I: beginning reading. - Limited View | HathiTrust Digital Library]] :2023jan26:latin:
+* [[https://babel.hathitrust.org/cgi/pt?id=iau.31858007054467&view=2up&seq=7][Latin II: progress in reading. - Limited View | HathiTrust Digital Library]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2021/01/14/textbooks-for-learning-the-latin-divine-office/][Textbooks for Learning the Latin Divine Office – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2020/10/26/vintage-textbook-find-a-primer-of-medieval-latin/][Vintage Textbook Find: A Primer of Medieval Latin – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2021/01/01/vtf-medieval-and-late-latin-selections/][VTF: Medieval and Late Latin Selections – Learn Church Latin]] :2023jan26:latin:
+* [[https://magiscenter.com/][Magis Center: Catholic Answers to Science, Faith and Reason]] :catholicism:christianity:faith:
+* [[https://www.jewishvirtuallibrary.org/][Jewish Virtual Library]] :christianity:
+* [[https://www.nas.org/academic-questions/33/2/the-games-that-academics-play][The Games That Academics Play by David Lewis Schaefer | NAS]] :culture:politics:
+* [[https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html][Compendium of the Catechism of the Catholic Church]] :catechesis:catholicism:christianity:theology:
+* [[https://www.jamoe.org/note-taking][Honest Notes (HQ&A and Jump Notes) — Jamoe]] :StudySkills:notetaking:
+* [[https://www.ignatiantradition.com/][Ignatian Spiritual Direction]] :catholicism:christianity:ignatian:prayer:
+* [[https://www.usccb.org/sites/default/files/flipbooks/catechism/][Catechism of the Catholic Church]] :catechesis:catholicism:christianity:theology:
+* [[https://cosmicpursuits.com/start-here-stargazing-basics/][Start Here - Stargazing Basics - Cosmic Pursuits]] :astronomy:
+* [[https://alvinalexander.com/linux-unix/how-to-make-offline-mirror-copy-website-with-wget/][How to make an offline mirror copy of a website with wget | alvinalexander.com]] :cli:wget:
+* [[http://ldysinger.stjohnsem.edu/][Saint John Seminary -- course notes]] :catholicism:theology:
+* [[https://www.allaboutcircuits.com/textbook/][Textbook for Electrical Engineering & Electronics]] :electronics:
+* [[https://www.catholicnewsagency.com/][Catholic News Agency]] :catholicism:news:
+* [[https://www.premierunbelievable.com/][Home]] :christianity:
+* [[https://www.iampeth.com/rare-books][Rare Books | IAMPETH]] :calligraphy:
+* [[https://archive.org/details/penmanshandbookf00gask/page/166/mode/2up][The penman's hand-book : for penmen and students, embracing a history of writing ... many complete alphabets ... ; Also, Chapters on teaching penmanship, business letter writing, off-hand flourishing ... etc. : Gaskell, G. A. (George A.), b. 1844 : Free D]] :calligraphy:
+* [[https://masgrimes.com/archive/zanerian-manual][The Zanerian Manual - Masgrimes]] :calligraphy:
+* [[https://archive.org/details/fleursdaprsnatur00guil/page/n75/mode/2up][Fleurs d'après nature et fleurs ornementales : études de fleurs et feulliages avec diverses interprétations applicables à l'enluminure et à la décoration : Guillot, Ernest : Free Download, Borrow, and Streaming : Internet Archive]] :calligraphy:
+* [[https://archive.org/details/laoperinadiludou00arri/page/n19/mode/2up?view=theater][La operina di Ludouico Vicentino, da imparare di scriuere littera cancellarescha : Arrighi, Ludovico degli : Free Download, Borrow, and Streaming : Internet Archive]] :calligraphy:
+* [[http://www.hymntime.com/tch/index.htm][The Cyber Hymnal™]] :christianity:
+* [[https://concert-vienna.com/blogs/viennese-things/classical-music-for-beginners-how-to-listen-to-classical-music][Classical Music for Beginners — How to Listen to Classical Music – Concert Vienna]] :classicalmusic:
+* [[https://www.cmuse.org/how-to-understand-and-appreciate-classical-music/][How to Understand and Appreciate Classical Music - CMUSE]] :classicalmusic:
+* [[https://nova.astrometry.net/][Astrometry.net]] :astronomy:
+* [[https://gaudiumetspes22.com/][Gaudium et Spes 22]] :catholicism:christianity:culture:
+* [[https://onepeterfive.com/][OnePeterFive - Rebuilding Catholic Culture. Restoring Catholic Tradition.]] :catholicism:christianity:culture:
+* [[https://blog.treasurie.com/polymer-clay-tutorial/][Polymer Clay Tutorial - Where to Sart for Beginners | TREASURIE]] :polymer_clay:
+* [[http://www.sophia-project.org/][THE SOPHIA PROJECT - Online resources in philosophy and ethics]] :philosophy:theology:
+* [[https://theskylive.com/planetarium?geoid=6094817#ra|20.488703420524786|dec|44.08054024094598|fov|50][The Sky from Ottawa, Canada - Interactive Sky Chart | TheSkyLive.com]] :astronomy:
+* [[https://folgerpedia.folger.edu/List_of_online_resources_for_early_modern_English_paleography][List of online resources for early modern English paleography - Folgerpedia]] :palaeography:
+* [[https://guides.lib.uchicago.edu/c.php?g=813534&p=5805557][Paleography - Guide to Medieval Manuscript Research - Library Guides at UChicago]] :2023jan26:palaeography:
+* [[https://www.openculture.com/2012/11/take_first-class_philosophy_lectures_anywhere_with_free_oxford_podcasts.html][Take First-Class Philosophy Courses Anywhere with Free Oxford Podcasts | Open Culture]] :philosophy:
+* [[https://www.openculture.com/][The best free cultural & educational media on the web - Open Culture]] :culture:onlinecourses:study:
+* [[https://www.futurelearn.com/courses/book-of-kells][Exploring the Book of Kells - Online Course - FutureLearn]] :calligraphy:manuscripts:medeaeval:
+* [[http://bibliophilly.pacscl.org/][Bibliotheca Philadelphiensis – Digitizing 160,000 glorious pages of medieval manuscripts]] :calligraphy:manuscripts:medeaeval:palaeography:
+* [[https://www.bl.uk/medieval-english-french-manuscripts][Medieval England and France - The British Library]] :calligraphy:manuscripts:medeaeval:
+* [[https://youglish.com/][Improve your English pronunciation using YouTube]] :Writing:english:pronunciation:
+* [[https://premierunbelievable.com/][Explore, Understand, Defend and Share » Premier Unbelievable?]] :christianity:
+* [[https://instituteofcatholicculture.org/][Institute of Catholic Culture - Catholic Adult Education]] :catholicism:
+* [[https://www.catholicthinkers.org/][Catholic Thinkers]] :catholicism:christianity:
+* [[https://wherepeteris.com/][Where Peter Is - there is the Church]] :catholicism:
+* [[https://www.goodreads.com/?ref=nav_home][Recent updates | Goodreads]] :2023jan26:books:favorites:
+* [[https://read.amazon.com/notebook?openid.assoc_handle=amzn_kp_us&openid.claimed_id=https%3A%2F%2Fwww.amazon.com%2Fap%2Fid%2Famzn1.account.AGNUYP4LOCYECMIS2BMFK3VW2KEQ&openid.identity=https%3A%2F%2Fwww.amazon.com%2Fap%2Fid%2Famzn1.account.AGNUYP4LOCYECMIS2BMFK3VW2KEQ&openid.mode=id_res&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.op_endpoint=https%3A%2F%2Fwww.amazon.com%2Fap%2Fsignin&openid.response_nonce=2022-03-15T19%3A07%3A59Z818315094830952049&openid.return_to=https%3A%2F%2Fread.amazon.com%2Fnotebook&openid.signed=assoc_handle%2Cclaimed_id%2Cidentity%2Cmode%2Cns%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Cns.pape%2Cpape.auth_policies%2Cpape.auth_time%2Csigned&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.auth_policies=AmazonMultifactor&openid.pape.auth_time=2022-03-15T19%3A07%3A37Z&openid.sig=CtL3fAwz7vM03vTYovB%2Bs5pnFG5qnzrcURTCvG9bMOI%3D&serial=&][Kindle: Your Notes and Highlights]] :2023jan26:favorites:kindle:
+* [[https://www.learngo.co.uk/][Learn Go]] :games:go:
+* [[https://pandanet-igs.com/communities/pandanet][Pandanet]] :games:go:
+* [[http://www.gokgs.com/][KGS Go Server]] :games:go:
+* [[http://www.learngo.co.uk/GoTutor/Tutor.php][Learn Go - Tutorial]] :games:go:
+* [[https://playgo.to/en][Play Go Online Game - Cosumi]] :games:go:
+* [[https://senseis.xmp.net/][Front Page at Sensei's Library]] :games:go:
+* [[https://chess24.com/en][Chess - Play, Learn & Watch Live Tournaments - chess24 | chess24.com]] :chess:games:
+* [[http://aa9pw.com/morsecode/][Morse Code Practice - AA9PW]] :morse_code:
+* [[https://morsecode.world/][Morse Code World]] :morse_code:
+* [[https://lcwo.net/][LCWO.net - Learn CW Online]] :morse_code:
+* [[https://www.chess.com/][Chess.com - Play Chess Online - Free Games]] :chess:games:
+* [[https://lichess.org/][lichess.org • Free Online Chess]] :chess:games:
+* [[https://www.titanium-software.fr/en/onyx.html][Titanium Software | Operating system utilities for Mac - OnyX]] :macos:onyx:utilities:
+* [[https://www.switchingtomac.com/macos/mail-app-on-mac-keeps-crashing-try-these-fixes/][Mail App on Mac Keeps Crashing? Try These Fixes]] :macos:mail:
+* [[https://authors.ietf.org/en/home][Home | Internet-Draft Author Resources]] :internet_draft:rfc:xml2rfc:
+* [[https://www.learncalligraphy.co.uk/index.html][Learn Calligraphy | The art of beautiful writing - Calligraphy lessons and alphabets]] :calligraphy:
+* [[https://github.com/morhetz/gruvbox][GitHub - morhetz/gruvbox: Retro groove color scheme for Vim]] :cli:gruvbox:themes:
+* [[https://github.com/jarun/nnn][GitHub - jarun/nnn: n³ The unorthodox terminal file manager]] :cli:nnn:tools:
+* [[https://github.com/ranger/ranger][GitHub - ranger/ranger: A VIM-inspired filemanager for the console]] :cli:ranger:tools:
+* [[https://ranger.github.io/][Ranger — console file manager with VI key bindings]] :cli:ranger:tools:
+* [[https://muras.eu/assets/img/ranger_cheatsheet.pdf][Untitled]] :ranger:
+* [[https://archive.org/][Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine]] :research:study:
+* [[https://education.iseek.com/iseek/home.page][iSEEK - Education]] :research:
+* [[https://www.virtuallrc.com/][Virtual Learning Resources Center]] :research:
+* [[https://www.refseek.com/][RefSeek - Academic Search Engine]] :research:
+* [[https://en.wikipedia.org/wiki/Main_Page][Wikipedia, the free encyclopedia]] :research:
+* [[https://scholar.google.com/][Google Scholar]] :research:
+* [[https://www.aresearchguide.com/][A Research Guide for Students]] :StudySkills:StyleGuides:research:
+* [[https://www.sitepoint.com/zsh-commands-plugins-aliases-tools/][75 Zsh Commands, Plugins, Aliases and Tools - SitePoint]] :zsh:
+* [[https://vimtricks.com/][Vim Newsletter - VimTricks]] :vim:
+* [[https://ubuntu-mate.community/t/how-to-create-your-own-man-pages/7931][How to create your own man pages - Tips, Tricks and Tutorials / Tutorials & Guides - Ubuntu MATE Community]] :manpages:
+* [[https://www.cyberciti.biz/faq/linux-unix-creating-a-manpage/][How To - Linux / UNIX Create a Manpage - nixCraft]] :manpages:
+* [[https://www.howtogeek.com/663440/how-to-use-linuxs-man-command-hidden-secrets-and-basics/][How to Use Linux’s man Command: Hidden Secrets and Basics]] :manpages:
+* [[https://news.ycombinator.com/item?id=17797355][Um – Create your own man pages so you can remember how to do stuff | Hacker News]] :manpages:
+* [[https://www.howtogeek.com/682871/how-to-create-a-man-page-on-linux/][How to Create a man Page on Linux]] :manpages:
+* [[https://www.markdownguide.org/basic-syntax/][Basic Syntax | Markdown Guide]] :Markdown:
+* [[https://taskwarrior.org/tools/][Taskwarrior - What's next?]] :cli:tools:
+* [[https://github.com/amperser/proselint/][GitHub - amperser/proselint: A linter for prose.]] :cli:tools:
+* [[https://github.com/phmullins/awesome-macos-commandline#writing][GitHub - phmullins/awesome-macos-commandline: A curated list of awesome command-line software for macOS.]] :cli:tools:
+* [[https://taskwarrior.org/docs/][Taskwarrior - What's next?]] :cli:tools:
+* [[https://jjasghar.github.io/blog/2020/06/23/10-cli-apps-you-should-use-on-a-mac/][10 CLI Apps you should use on a Mac]] :cli:
+* [[https://taskwarrior.org/][Taskwarrior - What's next?]] :cli:tools:
+* [[http://www.zzapper.co.uk/][Untitled]] :zsh:
+* [[https://ohmyz.sh/][Oh My Zsh - a delightful & open source framework for Zsh]] :cli:zsh:
+* [[http://www.bash2zsh.com/zsh_refcard/refcard.pdf][Untitled]] :cli:zsh:
+* [[https://www.learnpython.org/][Learn Python - Free Interactive Python Tutorial]] :python:
+* [[https://docs.google.com/presentation/d/14xUmkDPdVOHgS_BdVo4KXMUfHpBHrLKFBKo2PHLbCDM/edit#slide=id.p][NCLA DH Presentation - Google Slides]] :digitalhumanities:humanities:
+* [[https://www.3blue1brown.com/][3Blue1Brown]] :maths:
+* [[https://github.com/3-manifolds/Sage_macOS/releases/][Releases · 3-manifolds/Sage_macOS · GitHub]] :maths:sage:
+* [[https://www.librarything.com/mds][MDS: Melvil Decimal System | LibraryThing]] :classification:dewey:mds:
+* [[https://learnchurchlatin.com/2019/05/20/ecclesiastical-latin-pronunciation-guide/][Ecclesiastical Latin Pronunciation Guide – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2019/06/28/latin-idioms-to-know/][Latin Idioms to Know – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2019/08/31/latin-verb-map/][Latin Verb Map – Learn Church Latin]] :latin:
+* [[https://learnchurchlatin.com/2019/09/29/latin-conversational-phrases/][Latin Conversational Phrases – Learn Church Latin]] :latin:
+* [[https://learnchurchlatin.com/2019/10/07/best-latin-study-tools-1-idea-mapping/][Best Latin Study Tools: #1–Idea-Mapping – Learn Church Latin]] :latin:
+* [[https://pinboard.in/add?next=same&url=https%3A%2F%2Flearnchurchlatin.com%2F2019%2F10%2F07%2Fbest-latin-study-tools-1-idea-mapping%2F&description=&title=Best%20Latin%20Study%20Tools%3A%20%231%E2%80%93Idea-Mapping%20%E2%80%93%20Learn%20Church%20Latin][Pinboard - Save a Bookmark]] :latin:
+* [[https://learnchurchlatin.com/2020/05/03/how-to-design-a-self-study-church-latin-course/][How to Design a Self-Study Church Latin Course – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2020/11/19/by-way-of-encouragement/][By Way of Encouragement – Learn Church Latin]] :latin:
+* [[https://learnchurchlatin.com/2020/12/17/fr-mosts-thoughts-on-teaching-latin/][Fr. Most’s Thoughts on Teaching Latin – Learn Church Latin]] :latin:
+* [[https://learnchurchlatin.com/2020/12/03/dictionaries-for-church-latinists/][Dictionaries for Church Latinists – Learn Church Latin]] :latin:
+* [[https://learnchurchlatin.com/2021/01/21/diligence-and-patience-what-latin-mastery-takes/][Diligence and Patience: What Latin Mastery Takes – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2021/02/11/short-history-of-the-latin-language/][Short History of the Latin Language – Learn Church Latin]] :2023jan26:latin:
+* [[https://learnchurchlatin.com/2021/03/04/first-steps-in-latin-sentence-diagramming/][First Steps in Latin Sentence Diagramming – Learn Church Latin]] :latin:
+* [[https://learnchurchlatin.com/2021/09/04/lnm-readings-some-recordings/][LNM Readings: Some Recordings – Learn Church Latin]] :latin:
+* [[https://archive.org/details/allenandgreenou03greegoog/page/n5/mode/2up][Allen and Greenough's New Latin grammar for schools and colleges : founded on comparative grammar : Allen, Joseph Henry, 1820-1898, editor : Free Download, Borrow, and Streaming : Internet Archive]] :latin:
+* [[https://archive.org/details/selectionsfromla0000hebe/page/n3/mode/2up][Selections from the Latin fathers, with commentary and notes : Hebert, Peter E., editor : Free Download, Borrow, and Streaming : Internet Archive]] :latin:
+* [[https://archive.org/details/IntroductionToEcclesiasticalLatin/mode/1up][Introduction To Ecclesiastical Latin : St. Mary's Hermitage Press - Cantuariensi : Free Download, Borrow, and Streaming : Internet Archive]] :latin:
+* [[https://archive.org/details/in.ernet.dli.2015.73770/page/n3/mode/2up][A Primer Of Medieval Latin : Charles H. Beeson : Free Download, Borrow, and Streaming : Internet Archive]] :latin:
+* [[https://thecatholicspirit.com/faith/focus-on-faith/practicing-catholic/learn-a-new-language-for-free-latin/][Learn a new language for free: Latin! - TheCatholicSpirit.com : TheCatholicSpirit.com]] :latin:
+* [[https://stcatherinecenter.wordpress.com/2014/04/08/learn-church-latin-for-free/][Learn Church Latin for Free | St. Catherine Catholic Culture Center]] :latin:
+* [[https://learnchurchlatin.com/][Learn Church Latin – Language of the Catholic Church and Western Civilization]] :latin:
+* [[https://www.sorobanexam.org/][Soroban Exam - Home]] :soroban:
+* [[https://www.sorobanexam.org/generator.html][The generator - Soroban Exam]] :soroban:
+* [[https://www.youtube.com/channel/UCh6dDLoAqsnVZ47kUthnHbg/videos][Soroban Lessons - YouTube]] :soroban:
+* [[http://totton.idirect.com/abacus/][算盤 ABACUS: MYSTERY OF THE BEAD - Abacus instructions manual. Learn how to use abacus.]] :soroban:
+* [[https://www.thedivinemercy.org/articles/part-1-it-real][Part 1: Is It for Real? | The Divine Mercy]] :catholicism:christianity:healing:
+* [[https://aquinas.cc/la/en/~ST.II-II.Pr][ST.II-II.Pr - Aquinas]] :aquinas:catholicism:christianity:theology:
+* [[https://www.sacred-texts.com/chr/tic/index.htm][The Interior Castle Index]] :christianity:mysticism:
+* [[https://www.librarything.com/][LibraryThing | Catalog your books online]] :classification:dewey:
+* [[https://archive.org/details/Philokalia-TheCompleteText][Philokalia - The Complete Text : St. Nikodemos of the Holy Mountain and St. Makarios of Corinth : Free Download, Borrow, and Streaming : Internet Archive]] :catholicism:christianity:mysticism:theology:
+* [[https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes][List of Dewey Decimal classes - Wikipedia]] :classification:dewey:knowledge:
+* [[https://www.oclc.org/content/dam/oclc/dewey/resources/summaries/deweysummaries.pdf][Dewey Decimal System - deweysummaries.pdf]] :classification:knowledge:
+* [[https://researchrabbitapp.com/home][Research Rabbit]] :2023jan26:favorites:research:
+* [[https://gouldguides.carleton.edu/activereading][Reading Well and Taking Research Notes]] :research:
+* [[https://www.cartographersguild.com/attachment.php?attachmentid=122324&d=1588436687][MapOfTheGuild_by_Mistybeee.jpg (JPEG Image, 3000 × 2155 pixels) — Scaled (43%)]] :cartography:
+* [[https://www.cartographersguild.com/attachment.php?attachmentid=124769&d=1599215299][British Isles Map (watermarked).jpg (JPEG Image, 4985 × 7050 pixels) — Scaled (13%)]] :cartography:
+* [[https://www.oldmapsonline.org/][Old Maps Online]] :cartography:maps:
+* [[https://londonist.com/2016/05/the-history-of-the-tube-map][The History Of The Tube Map | Londonist]] :maps:tube:underground:
+* [[https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20Connections%20Map.pdf][London Connections Map - London Connections Map.pdf]] :maps:tube:underground:
+* [[http://www.clarksbury.com/cdl/maps.html][The London Tube Map Archive]] :maps:tube:underground:
+* [[https://git-scm.com/docs/git#_git_commands][Git - git Documentation]] :git:
+* [[https://www.xavier.edu/jesuitresource/online-resources/prayer-index/catholic-prayers][Catholic Prayers]] :catholicism:prayer:
+* [[https://www.fprintf.net/vimCheatSheet.html][Vim Commands Cheat Sheet]] :tools:vim:
+* [[https://github.com/todotxt/todo.txt][todotxt/todo.txt: ‼️ A complete primer on the whys and hows of todo.txt.]] :cli:productivity:tools:
+* [[https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.md][todo.txt-cli/USAGE.md at master · todotxt/todo.txt-cli]] :cli:productivity:tools:
+* [[http://todotxt.org/][Todo.txt: Future-proof task tracking in a file you control]] :cli:productivity:tools:
+* [[https://wordonfire.institute/groups/st-francis-de-sales-peer-mentor-small-group/forum/][Discussions – St Francis de Sales – PEER MENTOR SMALL GROUP – Word on Fire Institute]] :Writing:groups:wordonfire:
+* [[https://excalidraw.com/][Excalidraw]] :drawing:tools:
+* [[https://churchlifejournal.nd.edu/][Church Life Journal | University of Notre Dame]] :catholicism:journals:theology:
+* [[https://arxiv.org/][arXiv.org e-Print archive]] :journals:maths:physics:
+* [[https://ojs.uclouvain.be/index.php/theologica/index][TheoLogica: An International Journal for Philosophy of Religion and Philosophical Theology]] :journals:theology:
+* [[http://www.mechanicalphilosopher.com/][The Taig Lathe and Milling Machine]] :engineering:lathe:taig:
+* [[https://www.degruyter.com/journal/key/OPTH/html][Open Theology]] :journal:theology:
+* [[https://rebrickable.com/][Rebrickable | Rebrickable - Build with LEGO]] :lego:
+* [[https://rebrickable.com/mocs/MOC-60088/Janotechnic/launch-tower-mk-i-for-saturn-v-2130992176-with-crawler/#details][LEGO MOC Launch Tower Mk I for Saturn V (21309/92176) with Crawler by Janotechnic | Rebrickable - Build with LEGO]] :lego:
+* [[http://www.mhra.org.uk/style/][The MHRA Style Guide]] :StyleGuides:Writing:
+* [[https://support.apple.com/en-ca/HT207582][Use Multitasking on your iPad - Apple Support]] :ios:
+* [[https://danielmiessler.com/study/vim/][Learn Vim For the Last Time: A Tutorial and Primer | Daniel Miessler]] :bestpractices:text_editor:tutorial:vim:
+* [[https://www.openvim.com/tutorial.html][Interactive Vim tutorial]] :text_editor:tutorial:vim:
+* [[http://tnerual.eriogerg.free.fr/vimqrc.html][VIM Quick Reference Card]] :text_editor:vim:
+* [[https://sourabhbajaj.com/mac-setup/Vim/README.html][Vim | Mac OS X Setup Guide]] :text_editor:vim:
+* [[https://vimhelp.org/][Vim: help docs]] :text_editor:vim:
+* [[https://www.vim.org/][welcome home : vim online]] :text_editor:vim:
+* [[https://complex-analysis.com/][Complex Analysis]] :complex_analysis:maths:
+* [[https://www.meteoblue.com/en/weather/outdoorsports/seeing/ottawa_canada_6094817][Astronomical seeingOttawa - meteoblue]] :astronomy:
+* [[https://www.youtube.com/playlist?list=PLjZ7Y0kROWit-4cZY2A-tiEsYaWzWQoIC][(175) Astrophotography - YouTube]] :astronomy:photography:
+* [[https://affinity.serif.com/en-gb/tutorials/photo/desktop/category/workflows-and-techniques/][Workflows & Techniques | Affinity Photo for desktop tutorials]] :astronomy:photography:
+* [[https://www.wordonfire.org/rosary/][The Rosary with Bishop Robert Barron]] :catholicism:
+* [[https://www.latinitium.com/blog/how-to-learn-latin-part-one][How to learn Latin (2019), part one: Motivation, Goals, and Habits — Latinitium]] :latin:
+* [[https://www.google.com/amp/s/www.latinitium.com/blog/how-to-learn-latin-part-one%3Fformat%3Damp][How to learn Latin (2019), part one: Motivation, Goals, and Habits]] :latin:
+* [[http://204.38.55.73/dnn6/Portals/0/DeweyDecimalClassificationChart.pdf][Dewy Decimal classifications]] :classification:inbox:knowledge:
+* [[https://churchlifejournal.nd.edu/articles/faith-in-the-modern-areopagus/?_hsmi=112522020&_hsenc=p2ANqtz-9HSTATVeZ1PHjr18K8EKoQMVHsF-4lVGhgnRnphEO1zJEmj8142o6zUCoXtFrW4NvJaPPAWPxfwjB8ONDpdoCaX4d8mA][Faith in the Modern Areopagus | Church Life Journal | University of Notre Dame]] :inbox:theology:
+* [[https://youtu.be/8gMkilRTEjE][Effective work—Obsidian]] :inbox:
+* [[https://notes.pinboard.in/u:drewhodge/0f4197c79e3a226f1cd9][Test note]] :inbox:
+* [[http://www.bl.uk/manuscripts/][Digitised Manuscripts]] :calligraphy:manuscripts:mediaeval:
+* [[https://documentacatholicaomnia.eu/03d/1545-1545,_Concilium_Tridentinum,_Canons_And_Decrees,_EN.pdf][Council of Trent (PDF)]] :catholicism:theology:
+* [[https://tech-cookbook.com/2020/11/14/setting-up-your-local-web-server-on-macos-big-sur-11-0-1-2020-mamp-macos-apache-mysql-php/][Setting Up Your Local Web Server on macOS Big Sur 11.0.1 (2020)| MAMP | macOS, Apache, MySQL, PHP | Tech CookBook]] :webdevelopment:
+* [[https://wordpress.org/][Blog Tool, Publishing Platform, and CMS — WordPress.org]] :webdevelopment:
+* [[https://www.wpbeginner.com/wp-tutorials/how-to-move-your-site-from-joomla-to-wordpress/][How to Easily Move Your Site from Joomla to WordPress (Step by Step)]] :webdevelopment:
+* [[https://www.wpbeginner.com/beginners-guide/self-hosted-wordpress-org-vs-free-wordpress-com-infograph/?display=wide][WordPress.com vs WordPress.org – Which is Better? (Pros and Cons)]] :webdevelopment:
+* [[https://www.wpbeginner.com/showcase/best-cms-platforms-compared/][15 Best and Most Popular CMS Platforms in 2021 (Compared)]] :webdevelopment:
+* [[https://www.meteoblue.com/en/weather/week/ottawa_canada_6094817][Weather Ottawa - meteoblue]] :astronomy:
+* [[https://mcgrath.nd.edu/][McGrath Institute for Church Life | University of Notre Dame]] :catholicism:
+* [[https://www.latinitium.com/latin-dictionaries][#1 Latinitium – Online Latin Dictionaries]] :latin:
+* [[https://docs.google.com/document/d/19_exhKRH1rVIL2yE_dc8jLk6zPwsb-r4os-BX43k6RE/edit][Wheelock Vocabulary Lists (All) - Google Docs]] :latin:
+* [[http://www.usu.edu/markdamen/Latin1000/][Latin Grammar based on Wheelock]] :latin:
+* [[https://magistersmith.weebly.com/wheelock.html][Wheelock - Magister Smith's Latin Page]] :latin:
+* [[https://docs.google.com/document/d/1GUR4l6PIGhDMeW5AyHkMz408mC35o9yzW4Lt06oETaI/edit][How to Use Your Resources in Magister Smith’s Class - Google Docs]] :latin:
+* [[https://docs.google.com/document/d/17bBXCy1qn_x0at20GKgHHGABOvTBw6JvSlaHRXmZpI4/edit?fbclid=IwAR1sci1smwfh8PD6YzEmCEIcwKf3yAiY2dvt9njOPiYwE3mAecjPzFcUf_Q][Comprehensive Wheelock's Resource Links by Magister Smith - Google Docs]] :latin:
+* [[https://www.youtube.com/channel/UCrMiGmO4X9WeWq1fMm_7avg][(271) latintutorial - YouTube]] :latin:
+* [[https://www.youtube.com/c/ScorpioMartianus][(271) ScorpioMartianus - YouTube]] :latin:
+* [[http://www.thelatinlibrary.com/][The Latin Library]] :latin:
+* [[https://www.alllanguageresources.com/learning-latin/][Learning Latin Made Simple(r): A Self-Study Guide]] :latin:
+* [[https://www.indilib.org/][INDI opensource libraries]] :astronomy:
+* [[https://www.cloudynights.com/topic/648450-macbook-and-mount-control/][MacBook and mount control - Astronomy Software & Computers - Cloudy Nights]] :astronomy:
+* [[https://www.stefanimhoff.de/tools-i-use-for-note-taking/][Tools I Use For Note-Taking · Stefan Imhoff]] :Academic_workflow:StudySkills:zettelkasten:
+* [[https://www.galactic-hunter.com/post/dslr-astrophotography-equipment][Beginner DSLR Astrophotography Equipment - A Complete Guide]] :astronomy:
+* [[https://devdocs.io/][DevDocs API Documentation]] :api:css:development:html:webdevelopment:
+* [[https://www.markdownguide.org/][Markdown Guide]] :2023jan26:favorites:markdown:markdown_html5:markup:
+* [[https://www.macobservatory.com/][MAC OBSERVATORY]] :astronomy:
+* [[https://aladin.u-strasbg.fr/aladin.gml][Aladin Sky Atlas]] :astronomy:
+* [[https://www.astropix.com/html/i_astrop/software.html][Software for Astrophotography]] :astronomy:
+* [[https://www.galactic-hunter.com/post/no-telescope-the-15-best-astrophotography-targets][The 15 Best Astrophotography Targets with a DSLR camera and lens]] :astronomy:
+* [[https://blog.martinbelan.com/2020/06/25/how-to-polar-align-a-sky-watcher-star-adventurer-for-astrophotography/][How to Polar Align a Sky-Watcher Star Adventurer for Astrophotography – Martin Belan]] :astronomy:
+* [[https://nightskypix.com/skywatcher-star-adventurer-pro-setup-and-user-guide/][Setup & User Guide To The SkyWatcher Star Adventurer PRO]] :astronomy:
+* [[https://www.handprint.com/ASTRO/][Astronomical Files --Double Stars]] :astronomy:
+* [[https://play.primephonic.com/][Home – Primephonic]] :classicalmusic:
+* [[https://account.primephonic.com/][Primephonic - Your Account]] :classicalmusic:
+* [[https://www.insidethescore.com/products/14-pieces][Inside the Score - Deepen Your Appreciation of Classical and Art Music]] :classicalmusic:
+* [[https://theskylive.com/][Your Guide to the Solar System and the Night Sky | TheSkyLive.com]] :astronomy:
+* [[https://resources.digital-photography-school.com/][Digital Photography School Resources -]] :photography:
+* [[https://medium.com/storiusmag/photography-for-beginners-where-do-i-even-start-c1ab80243f22][Photography for Beginners: Where Do I Even Start? | by Chris Romans | Storius Magazine | Medium]] :photography:
+* [[http://www.covingtoninnovations.com/dslr/][Digital SLR Astrophotography]] :astronomy:
+* [[http://www.trappist.one/][TRAPPIST-1]] :astronomy:
+* [[https://thehappykoala.github.io/Harmony-of-the-Spheres/#/category/Misc/scenario/When%20Galaxies%20Collide][Harmony of the Spheres - 3D Gravity and Space Simulator]] :astronomy:
+* [[https://iceland-photo-tours.com/articles/photography-tutorials/beginners-guide-to-deep-sky-photography][Beginner's Guide to Deep Sky Photography]] :astronomy:
+* [[https://beingpaperless.com/][Paperless X – Technology for digital productivity]] :productivity:
+* [[https://astro.ecuadors.net/polar-scope-align/][Astro Blog Delta « Polar Scope Align for iOS «]] :astronomy:
+* [[https://astro.ecuadors.net/cheap-push-to-for-your-dobsonian-with-polar-scope-align-pro/][Astro Blog Delta « Cheap Push-To for your Dobsonian with Polar Scope Align Pro «]] :astronomy:
+* [[https://photographylife.com/photography-basics][Photography Basics: The Complete Beginner's Guide]] :photography:
+* [[https://www.nebulaphotos.com/][Nebula Photos]] :astronomy:
+* [[http://scopeviews.co.uk/SW100EDPro.htm][Sky-Watcher Evostar 100ED Ds-Pro Review]] :astronomy:
+* [[https://astrobackyard.com/][AstroBackyard | Astrophotography Tips and Tutorials]] :astronomy:
+* [[https://canoncanada.custhelp.com/app/home][Canon Canada Customer Support Home Page]] :astronomy:photography:
+* [[https://www.sahavre.fr/tutoriels/astrophoto/34-regle-npf-temps-de-pose-pour-eviter-le-file-d-etoiles][Astronomical Society of Le Havre - MFN rule: exposure time to avoid star trails]] :astronomy:
+* [[https://www.star-facts.com/][Star Facts | Stars: A guide to the night sky]] :astronomy:
+* [[https://www.macobservatory.com/useful-astronomy-websites][Useful Astronomy Websites — MAC OBSERVATORY]] :astronomy:
+* [[https://wikisky.org/?locale=EN][WIKISKY.ORG - Interactive Sky Map]] :astronomy:
+* [[https://www.constellation-guide.com/page/24/][Constellation Guide – Page 24]] :astronomy:
+* [[http://ned.ipac.caltech.edu/][Home | NASA/IPAC Extragalactic Database]] ::
+* [[http://simbad.u-strasbg.fr/simbad/][SIMBAD Astronomical Database - CDS (Strasbourg)]] :astronomy:
+* [[http://www.astrograv.co.uk/index.html][AstroGrav | Astronomy Software | Gravity Simulations | About]] :astronomy:
+* [[https://edu.kde.org/kstars/][The KDE Education Project - KStars]] :astronomy:
+* [[https://webspace.science.uu.nl/~gent0113/][Homepage of Robert H. van Gent]] :astronomy:
+* [[https://astronomy.tools/][astronomy.tools]] :astronomy:
+* [[https://www.cloudynights.com/index/][Cloudy Nights Forums]] :astronomy:
+* [[https://astrobackyard.com/resources/][Resources for Astrophotography | Software Tools, Plugins, Camera Control]] :astronomy:
+* [[https://www.macobservatory.com/mac-astronomy-software][Mac Astronomy Software — MAC OBSERVATORY]] :astronomy:
+* [[https://www.macobservatory.com/blog/2018/8/1/getting-started-with-astrophotography-on-the-mac][Getting Started with Astrophotography on the Mac — MAC OBSERVATORY]] :astronomy:
+* [[https://welcome.astrobin.com/][AstroBin]] :astronomy:
+* [[https://www.webassign.net/v4cgi/student.pl][Astronomy with Skynet: Our Place In Space! (C), Spring 2013 - Home | WebAssign]] :astronomy:
+* [[https://skyandtelescope.org/astronomy-resources/stargazing-basics/how-to-start-right-in-astronomy/][Astronomy for Beginners: How to Get Started in Backyard Astronomy - Sky & Telescope - Sky & Telescope]] :astronomy:
+* [[http://www.astronomycast.com/][Astronomy Cast | Take a facts-based journey through the universe.]] :astronomy:
+* [[http://mooc.teachastronomy.com/coursera/podcasts/?slsg=6.3][Teach Astronomy Podcasts]] :astronomy:
+* [[https://www.teachastronomy.com/][Teach Astronomy]] :astronomy:
+* [[https://astrobackyard.com/refractor-telescope-astrophotography/][Why a Refractor Telescope Is Your Best Option for Astrophotography]] :astronomy:
+* [[https://www.constellation-guide.com/][Constellation Guide]] :astronomy:
+* [[https://hubblesite.org/][Hubble--NASA]] :astronomy:
+* [[http://www.wikisky.org/][SKY-MAP.ORG - Interactive Sky Map]] :astronomy:
+* [[https://astrobackyard.com/attach-camera-to-telescope/][How to Attach Your Camera to a Telescope | Easy to Follow with Examples]] :astronomy:
+* [[https://skysafariastronomy.com/support/manual/manual.shtml][SkySafari Manual]] :astronomy:
+* [[https://digital-photography-school.com/][Digital Photography School]] :photography:
+* [[https://digital-photography-school.com/megapost-learning-how-to-use-your-first-dslr/][The Ultimate Guide to Learning how to use Your first DSLR]] :astronomy:
+* [[https://portal.mandevilleinc.com/?ReturnUrl=%2fPurePortal#overviewindex][Mandeville PurePortal - Login]] :finances:
+* [[https://telescopius.com/][What's in the Sky Tonight? · Ottawa - Telescopius]] :astronomy:
+* [[http://astronomytonight.net/main/form.sky][The sky tonight]] :astronomy:
+* [[http://www.homebuiltastronomy.com/index.htm][Home Built Astronomy Projects Home]] :astronomy:
+* [[http://docs.junolab.org/latest/man/installation/][Installation Instructions · Juno Documentation]] :Programming:julia:juno:
+* [[https://julialang.org/downloads/][Download Julia]] :Programming:julia:maths:
+* [[https://github.com/JuliaMath][Julia Math · GitHub]] :Programming:julia:maths:
+* [[https://juliaobserver.com/][Julia Observer]] :Programming:julia:maths:
+* [[https://juliadocs.github.io/Julia-Cheat-Sheet/][The Fast Track to Julia]] :Programming:julia:maths:
+* [[https://sagecell.sagemath.org/][Sage Cell Server]] :maths:sage:
+* [[http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf][SAGE book]] :maths:sage:
+* [[https://cocalc.com/projects/49e3c8dc-0a72-4407-82cc-7e1a7a434e6d/files/Welcome%20to%20CoCalc.sagews?session=default][CoCalc (Sage online)]] :maths:
+* [[https://livebook.manning.com/book/get-programming-with-haskell/chapter-1/][Lesson 1. Getting started with Haskell - Get Programming with Haskell]] :Programming:haskell:
+* [[http://www.vias.org/feee/index.html][FEEE - Fundamentals of Electrical Engineering and Electronics: Table of Contents]] :electronics:
+* [[https://learnabout-electronics.org/index.php][Learn About Electronics - Home Page]] :electronics:raspberrypi:
+* [[https://opensource.com/article/19/5/python-3-default-mac][The right and wrong way to set up Python 3 on MacOS | Opensource.com]] :python:
+* [[https://virtualenvwrapper.readthedocs.io/en/latest/index.html#][virtualenvwrapper 5.0.1.dev2 — virtualenvwrapper 5.0.1.dev2 documentation]] :python:virtualenvwrapper:
+* [[https://opensource.com/article/20/4/pyenv][How to use pyenv to run multiple versions of Python on a Mac | Opensource.com]] :python:
+* [[https://opensource.com/article/19/6/python-virtual-environments-mac][How to set up virtual environments for Python on MacOS | Opensource.com]] :python:
+* [[https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html][Command Reference — virtualenvwrapper 5.0.1.dev2 documentation]] :python:
+* [[https://technology.riotgames.com/news/putting-jenkins-docker-container][Putting Jenkins in a Docker Container | Riot Games Technology]] :docker:
+* [[https://www.docker.com/products/docker-desktop][Docker Desktop for Mac and Windows | Docker]] :docker:
+* [[https://docs.docker.com/][Docker Documentation | Docker Documentation]] :docker:
+* [[https://www.ncbcenter.org/][The National Catholic Bioethics Center]] :catholicism:
+* [[https://tiddlywiki.com/#GettingStarted][TiddlyWiki — a non-linear personal web notebook]] :notetaking:
+* [[https://github.com/Jermolene/TiddlyDesktop/releases][Releases · Jermolene/TiddlyDesktop]] :notetaking:
+* [[https://giffmex.org/stroll/stroll.html][Stroll — A Roam-like experience in a free, downloadable file]] :notetaking:
+* [[https://owl.purdue.edu/site_map.html][Site Map // Purdue College of Liberal Arts]] :Writing:
+* [[https://libguides.stthomas.edu/c.php?g=88745&p=573303][Getting Started - Systematic Theology (Revelation, Tradition, and Doctrine) - Research and Course Guides at University of St. Thomas]] :catholicism:theology:
+* [[https://www.tania-crossingham.com/home-2][Mediaeval School of Illumination]] :calligraphy:mediaeval:
+* [[http://www.earlychristianwritings.com/churchfathers.html][Early Church Fathers]] :catholicism:churchfathers:theology:
+* [[https://strangenotions.com/][Strange Notions]] :catholicism:theology:
+* [[https://wordonfireshow.com/episode210/][WOF 210: Church Fathers 101 (Part 1 of 3) | The Word on Fire Show]] :catholicism:churchfathers:theology:
+* [[https://chnetwork.org/answers-to-questions/church-history/][The Early Church Fathers - The Coming Home Network]] :catholicism:churchfathers:theology:
+* [[https://www.churchfathers.org/][Church Fathers]] :catholicism:theology:
+* [[https://pinboard.in/add?next=same&url=https%3A%2F%2Fwww.myworkday.com%2Fsalesforce%2Fd%2Fhome.htmld&description=&title=Home%20-%20Workday][SF Workday]] :sf:
+* [[https://www.johndcook.com/blog/][John D Cook--maths, emacs, etc]] :emacs:maths:
+* [[https://www.jwlettering.com/blog/2017/8/7/calligraphy-getting-started][A Beginner's Guide to Pointed Pen Calligraphy | Getting Started — JW Lettering | Luxury Calligraphy & Design]] :calligraphy:
+* [[https://www.patricialovett.com/][Patricia Lovett MBE | Calligraphy | Illumination | Design]] :calligraphy:
+* [[https://www.atlassian.com/agile/project-management][Get started with agile project management | Atlassian]] :agile:sf:
+* [[https://www.ncf.ca/ncf/home/index.jsp][National Capital Freenet]] :internet:isp:ncf:
+* [[https://www.nationalarchives.gov.uk/palaeography/][The National Archives | Palaeography tutorial (how to read old handwriting)]] :palaeography:
+* [[https://www.themorgan.org/node/53161/zoomify][Zoom | The Morgan Library & Museum]] :calligraphy:typography:
+* [[https://hyperallergic.com/230731/a-masterpiece-by-which-to-remember-type-designer-hermann-zapf/][A Masterpiece by Which to Remember Type Designer Hermann Zapf]] :calligraphy:typography:
+* [[http://designwithfontforge.com/en-US/Introduction.html][Design With FontForge: Introduction]] :typography:
+* [[http://www.livedtheology.org/news/][News -The Project on Lived Theology]] :theology:
+* [[https://votecompass.cbc.ca/canada/results][Vote Compass - Canada Votes 2019 - CBC News - Profile section 3 of 3]] :politics:
+* [[https://www.communio-icr.com/][Home | Communio]] :catholicism:journals:
+* [[https://zenit.org/][ZENIT - English - The World Seen From Rome]] :catholicism:
+* [[https://osvnews.com/2014/06/04/untangling-the-catholic-web/][Untangling the Catholic Web - Our Sunday Visitor]] :catholicism:
+* [[https://www.blazemeter.com/blog/getting-started-with-swagger-ui/][How to Use Swagger UI for API Testing | BlazeMeter]] :api:openapi:sf:swagger:
+* [[https://www.closertotruth.com/][Cosmos, Consciousness & Meaning TV Series on PBS - Closer to Truth]] :catholicism:
+* [[http://www.textmanuscripts.com/medieval/augustine-medieval-manuscript-79770][Augustine Medieval Illuminated Manuscript Mendacio Perfectione]] :manuscripts:
+* [[https://www.wordonfire.org/][Word on Fire]] :catholicism:theology:
+* [[https://wordonfire.institute/login/][Login - Word on Fire Institute]] :catholicism:
+* [[https://www.reasonablefaith.org/][Defending Biblical Christianity | Reasonable Faith]] :catholicism:theology:
+* [[https://www.bethinking.org/][Bethinking.org - making sense of the big questions about life - bethinking.org]] :catholicism:theology:
+* [[http://www.perseus.tufts.edu/hopper/#][Perseus Digital Library]] :digital:manuscripts:
+* [[https://digi.vatlib.it/mss/][DigiVatLib]] :digital:manuscripts:
+* [[https://digi.vatlib.it/][DigiVatLib]] :digital:manuscripts:
+* [[https://digitalcollections.newmanstudies.org/][NINS Digital Collections]] :digital:manuscripts:
+* [[https://github.com/renerocksai/sublimeless_zk#the-sublime-less-zettelkasten][renerocksai/sublimeless_zk: A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like sophisticated tag search, note transclusion, suppor]] :zettelkasten:
+* [[https://medium.com/ideas-by-crema/the-4-scrum-ceremonies-made-simple-a-quick-guide-to-scrum-meetings-ea91fe604d88][The 4 Scrum Ceremonies Made Simple: A Quick Guide To Scrum Meetings]] :agile:sf:
+* [[https://writingcooperative.com/zettelkasten-its-like-gtd-for-writing-and-here-s-why-you-should-consider-it-7dddf02be394][Zettelkasten: It’s Like GTD for Writing and Here’s Why You Should Consider It]] :zettelkasten:
+* [[https://zettelkasten.de/][Zettelkasten knowledge and info management • Zettelkasten Method]] :zettelkasten:
+* [[https://gist.github.com/dansheffler/94e4838fc0176ff11c19][Zettelkasten Sample · GitHub]] :zettelkasten:
+* [[https://github.com/renerocksai/sublime_zk#zettelkasten-mode][GitHub - renerocksai/sublime_zk: A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note transclusion features, s]] :zettelkasten:
+* [[https://zettelkasten.de/posts/reading-putting-it-all-together/][Reading Habits: Putting It All Together • Zettelkasten Method]] :Writing:notetaking:zettelkasten:
+* [[https://blog.typekit.com/alternate/a-history-english-round-hand-and-the-universal-penman/][The Typekit Blog | A History: English round hand and ‘The Universal Penman’]] :calligraphy:palaeography:
+* [[https://lagunita.stanford.edu/courses/English/DiggingDeeper1/Winter2015/course/][Course | DiggingDeeper1 - ARCHIVED | Stanford Lagunita]] :manuscripts:medeaeval:palaeography:
+* [[https://lagunita.stanford.edu/courses/English/DiggingDeeper1/Winter2015/courseware/a4ab3b8dd1cb45588954985f6a6d8da5/7591c2cc191e4bfb854facaff86a297a/2][Pricking and Ruling 1 | 4.3 Pricking and Ruling 1 | DiggingDeeper1 - ARCHIVED Courseware | Stanford Lagunita]] :palaeography:
+* [[https://archive.org/details/recordinterprete00martiala/page/n3][The record interpreter: a collection of abbreviations, Latin words and names used in English historical manuscripts and records : Martin, Charles Trice, 1842-1914 : Free Download, Borrow, and Streaming : Internet Archive]] :palaeography:
+* [[http://medievalwriting.50megs.com/writing.htm][Medieval Writing]] :palaeography:
+* [[http://diannesmedievalwriting.blogspot.com/][Dianne's Medieval Writing]] :palaeography:
+* [[https://manyheadedmonster.wordpress.com/2018/03/01/free-online-palaeography-resources/][Free online palaeography resources | the many-headed monster]] :palaeography:
+* [[https://port.sas.ac.uk/course/view.php?id=44][Course: Palaeography: An Overview]] :palaeography:
+* [[https://www.vhmmlschool.org/][vHMML School]] :calligraphy:palaeography:
+* [[https://www.calligraphy-skills.com/][Calligraphy Skills and the Enjoyment of Beautiful Writing]] :calligraphy:
+* [[https://www.wikiwand.com/en/Palaeography][Palaeography - Wikiwand]] :calligraphy:palaeography:
+* [[http://heraldicart.org/][Welcome - Traceable Heraldic Art]] :calligraphy:
+* [[https://chavelli.com/][Studio Chavelli: Calligraphy & Design]] :calligraphy:
+* [[https://designmodo.com/typography-cheat-sheet/][Typography Cheat Sheet [Infographic] - Designmodo]] :calligraphy:typography:
+* [[https://www.youtube.com/user/theosone/videos][theosone - YouTube]] :calligraphy:
+* [[https://www.youtube.com/user/PaulAntonioScribe/featured][PAScribe - YouTube]] :calligraphy:
+* [[https://www.johnnealbooks.com/][John Neal, Bookseller: Calligraphy Supplies, Pens, Ink, Calligraphy Books, Bookbinding Supplies, Bookbinding Books]] :calligraphy:
+* [[https://www.youtube.com/user/CalligraphyMasters][Calligraphy Masters - YouTube]] :calligraphy:
+* [[https://www.instagram.com/calligraphymasters/][ℭ𝔞𝔩𝔩𝔦𝔤𝔯𝔞𝔭𝔥𝔶 𝔐𝔞𝔰𝔱𝔢𝔯𝔰 (@calligraphymasters) • Instagram photos and videos]] :calligraphy:
+* [[https://www.artofmanliness.com/articles/want-to-become-a-better-writer-copy-the-work-of-others/][How to Become a Better Writer: Copy the Work of Others! | The Art of Manliness]] :Writing:
+* [[https://hiconsumption.com/best-hobbies-for-men/][The 50 Best Hobbies for Men | HiConsumption]] :hobbies:
+* [[https://www.artofmanliness.com/articles/get-1-better-every-day-the-kaizen-way-to-self-improvement/][Kaizen: Get a Little Better Each Day | The Art of Manliness]] :life_advice_secular:
+* [[https://www.artofmanliness.com/articles/the-cabinet-of-invisible-counselors/][The Cabinet of Invisible Counselors | The Art of Manliness]] :life_advice_secular:
+* [[https://www.artofmanliness.com/articles/jumpstart-your-journaling-a-31-day-challenge/][Jumpstart Your Journaling: A 31-Day Challenge | The Art of Manliness]] :hobbies:journaling:
+* [[https://www.artofmanliness.com/articles/the-art-of-letter-writing/][The Art of Letter Writing | The Art of Manliness]] :hobbies:
+* [[https://www.artofmanliness.com/articles/hobbies-for-men/][75+ Hobby Ideas For Men | The Art of Manliness]] :hobbies:life_advice_secular:
+* [[http://individual.utoronto.ca/ajhicks/index.html][Latin Resources]] :latin:mediaeval:
+* [[http://www.pims.ca/][Pontifical Institute of Mediaeval Studies]] :mediaeval:
+* [[https://medieval.utoronto.ca/research/resources/][Online Resources | Centre for Medieval Studies]] :mediaeval:
+* [[http://www.bl.uk/onlinegallery/onlineex/illmanus/roymanucoll/a/011roy000005b16u00003000.html][Anathema of Peter the Precentor, in St Augustine, Confessions]] :calligraphy:
+* [[http://faculty.georgetown.edu/jod/latinconf/1.html][Augustine--Confessions]] :calligraphy:
+* [[https://www.ignatianspirituality.com/31-days-with-saint-ignatius/][31 Days with Saint Ignatius at IgnatianSpirituality.com]] :catholicism:ignatian:
+* [[https://www.ignatianspirituality.com/][Home - Ignatian Spirituality]] :catholicism:
+* [[https://www.youtube.com/watch?v=_Zt19wzsW-c][(10) Lingua Latina Per Se Illustrata Cap.1 Imperium Romanum - YouTube]] :latin:
+* [[https://www.youtube.com/channel/UCLbiwlm3poGNh5XSVlXBkGA][Polymathy - YouTube]] :latin:
+* [[https://www.youtube.com/watch?v=_lb_fO18naw][(10) Latin Lives! Latin is an Ancient Living Language - YouTube]] :latin:
+* [[https://www.redstonestudios.com/][Home - Redstone Studios - Custom maps and globes - Durham, Connecticut]] :cartography:
+* [[https://www.cartography.org.uk/][Welcome to the British Cartographic Society - The British Cartographic Society]] :cartography:
+* [[http://www.visual-literacy.org/periodic_table/periodic_table.html][A Periodic Table of Visualization Methods]] :cartography:
+* [[http://mrsadventurer.blogspot.com/2013/04/mapping-hand-drawn-maps-tutorials.html][Mrs Adventurer: Mapping: Hand drawn maps tutorials]] ::
+* [[http://www.reliefshading.com/][– Relief Shading]] :cartography:
+* [[http://www.fantasticmaps.com/][Fantastic Maps - Fantasy maps and mapmaking tutorials by Jonathan Roberts]] :cartography:
+* [[http://www.naturalearthdata.com/][Natural Earth]] :cartography:
+* [[https://www.sothebys.com/en/articles/a-modern-map-maker-explains-the-art-of-cartography][A Modern Map-Maker Explains The Art of Cartography | Books & Manuscripts | Sotheby's]] :cartography:
+* [[https://www.lettering-daily.com/][Lettering Daily]] :calligraphy:
+* [[http://ductus.josselincuette.com/][© Ductus - This is ductus, a simple guide lines generator for calligraphers.]] :calligraphy:
+* [[https://www.lettering-daily.com/calligraphy-tutorials/][Calligraphy Tutorials Archives | Lettering Daily]] :calligraphy:
+* [[https://thepostmansknock.com/][The Postman's Knock]] :calligraphy:
+* [[https://calligraphyonline.org/][The Society of Scribes and Illuminators]] :calligraphy:
+* [[https://manuscriptpen.com/][Manuscript - Calligraphy - Wholesale Pens - Since 1856]] :calligraphy:
+* [[https://www.iampeth.com/home][Welcome to IAMPETH! | IAMPETH site]] :calligraphy:
+* [[https://www.lettering-daily.com/calligraphy-alphabets/][Calligraphy Alphabets - A List Of Major Historical Scripts | Lettering Daily]] :2023jan26:calligraphy:
+* [[https://www1.jobdiva.com/portal/?a=ujjdnwdoss0nmof8oa18votv0gex0a008fupnhyg19wb9z0k7txidyop98m6xp6z#/login?compid=0][TalentBurst Candidate Portal]] :contract:
+* [[https://wordonfire.institute/suffering-church/][Letter to a Suffering Church – A Book Study of the Sex Abuse Crisis - Word on Fire Institute]] :catholicism:
+* [[https://spec.commonmark.org/0.29/][CommonMark Spec]] :Markdown:markup:
+* [[https://workforcenow.adp.com/workforcenow/login.html][Login | ADP Workforce Now®]] :contract:
+* [[https://www.crediblecatholic.com/][Credible Catholic |]] :catholicism:theology:
+* [[https://idratherbewriting.com/learnapidoc/][Documenting APIs: A guide for technical writers and engineers | Documenting REST APIs]] :api:sf:tools:
+* [[https://www.desmos.com/calculator][Desmos | Graphing Calculator]] :maths:
+* [[https://www.hprweb.com/2009/01/reading-genesis-with-cardinal-ratzinger/][Reading Genesis with Cardinal Ratzinger - Homiletic & Pastoral Review]] :benedictxvi:catholicism:ratzinger:theology:
+* [[http://www.ratzingerfanclub.com/Ratzinger_Online.html][The Cardinal Ratzinger Fan Club: Ratzinger Online]] :benedictxvi:catholicism:ratzinger:theology:
+* [[http://popebenedictxvi.blogspot.com/][The Ratzinger Archives]] :benedictxvi:catholicism:ratzinger:theology:
+* [[http://thezanshow.com/electronics-tutorials/raspberry-pi][Raspberry Pi Tutorials - The Zan Show]] :rasppi:
+* [[https://www1.jobdiva.com/portal/?a=y5jdnwgsfix0t1d7osw75h145zxdtm008fvae292vxos9unusglbuzpszehgbfa0#/onboarding][TalentBurst Candidate Portal]] :contract:
+* [[https://github.com/bhilburn/powerlevel9k][GitHub - bhilburn/powerlevel9k: The most awesome Powerline theme for ZSH around!]] :tools:zsh:
+* [[https://www.ecma-international.org/ecma-262/9.0/index.html][ECMAScript® 2018 Language Specification]] :development:javascript:standards:tools:web:
+* [[https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM][Using shadow DOM - Web Components | MDN]] :developer:development:tools:website:
+* [[https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots][Using templates and slots - Web Components | MDN]] :developer:development:tools:website:
+* [[https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements][Using custom elements - Web Components | MDN]] :developer:development:tools:website:
+* [[https://developer.mozilla.org/en-US/docs/Web/Web_Components][Web Components | MDN]] :developer:development:tools:website:
+* [[https://developer.mozilla.org/en-US/docs/Web/Reference][Web technology reference | MDN]] :developer:development:tools:website:
+* [[https://developer.mozilla.org/en-US/docs/Learn][Learn web development | MDN]] :developer:development:tools:website:
+* [[https://developer.mozilla.org/en-US/][MDN Web Docs]] :developer:development:tools:website:
+* [[https://github.com/zsh-users/zsh-syntax-highlighting][zsh-syntax-highlighting: Fish shell like syntax highlighting for Zsh.]] :tools:zsh:
+* [[https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/][Use Homebrew zsh Instead of the OS X Default : Rick Cogley Central]] :tools:zsh:
+* [[https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7][Better Mac Terminal Experience-zsh]] :tools:zsh:
+* [[https://www.thomisticevolution.org/][Thomistic Evolution]] :catholicism:theology:
+* [[http://www.tarkarail.org/index.html][Tarka Rail Association - About us]] :railways:tarkaline:
+* [[https://en.wikipedia.org/wiki/Tarka_Line][Tarka Line - Wikipedia]] :railways:tarkaline:
+* [[https://www.google.com/search?rlz=1C5CHFA_enCA729CA730&q=Exeter+St+Davids+1960&tbm=isch&source=univ&sa=X&ved=2ahUKEwiqxZO-wNLgAhUD24MKHVm1D9gQsAR6BAgDEAE&biw=1803&bih=1239][Exeter St Davids 1960 - Google Search]] :railways:tarkaline:
+* [[https://www.google.com/maps/place/Crediton,+UK/@50.7299482,-3.5434508,17.8z/data=!4m5!3m4!1s0x486c4b5f4d1f6c09:0x294e46c3d01caaff!8m2!3d50.792592!4d-3.651495][Crediton - Google Maps]] :railways:tarkaline:
+* [[https://aleteia.org/blogs/catholic-thinking/][Tod Worner – Aleteia — Catholic Spirituality, Lifestyle, World News, and Culture]] :catholicism:
+* [[https://aleteia.org/][Aleteia — Catholic Spirituality, Lifestyle, World News, and Culture – Aleteia is a worldwide network providing daily content designed to inspire readers in their daily life.]] :catholicism:
+* [[http://www.scborromeo.org/biblestudies.htm][Bible Studies--Borromeo]] :catholicism:
+* [[http://www.scborromeo.org/pdfs/Liturgical%20Calendar.pdf][Liturgical calendar--Borromeo]] :catholicism:
+* [[https://dita.fluidtopics.com/home][DITA Language Standard (multiple versions)]] :DITA:Reference:
+* [[https://mudmagnetmodels.weebly.com/][Mudmagnet Models - Mudmagnet Model Railways]] :brmna:models:railways:
+* [[http://www.scenicmodelrailways.com/][Model Railway ideas]] :brmna:models:railways:
+* [[https://chnetwork.org/deep-in-history-home/][Deep in History - The Coming Home Network]] :catholicism:
+* [[https://confluence.internal.salesforce.com/display/INFRAPATCH][Infrastructure Patching Home - Infrastructure Patching Portal - Salesforce]] :confluence:sf:
+* [[https://asciidoctor.org/docs/asciidoctor-pdf/][Asciidoctor PDF | Asciidoctor]] :Writing:asciidoc:markup:tools:
+* [[https://asciidoctor.org/docs/user-manual/][Asciidoctor User Manual]] :Reference:Writing:asciidoc:markup:tools:
+* [[https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/][AsciiDoc Syntax Quick Reference | Asciidoctor]] :Writing:asciidoc:markup:quickref:tools:
+* [[https://asciidoctor.org/docs/what-is-asciidoc/][What is AsciiDoc? Why do we need it? | Asciidoctor]] :asciidoc:markup:tools:writing:
+* [[https://asciidoctor.org/][Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.]] :Writing:asciidoc:markup:tools:
+* [[https://asciidoctor.org/docs/asciidoc-writers-guide/][AsciiDoc Writer’s Guide | Asciidoctor]] :Writing:asciidoc:markup:
+* [[https://confluence.internal.salesforce.com/display/INAPPUA/ContentX+Engineering+Home+Page][ContentX Engineering Home Page - ContentX Eng - Salesforce]] :confluence:sf:
+* [[https://calendar.google.com/calendar/embed?src=salesforce.com_fmkviv1himbmql6hfd9n10nink%40group.calendar.google.com&ctz=America%2FLos_Angeles][Core Release Calendar]] :content_experience:release:sf:
+* [[https://www.quipsupport.com/hc/en-us/articles/210436306-What-are-Quip-s-keyboard-shortcuts-][What are Quip's keyboard shortcuts? – Quip Help]] :docs:help:quip:sf:
+* [[http://www.jjg.net/ia/visvocab/][Jesse James Garrett: Visual Vocabulary for Information Architecture]] :DITA:Writing:ia:information_architecture:user_experience:ux:
+* [[https://help.salesforce.com/home][Doc Home: Help | Training | Salesforce]] :architecture:content_experience:sf:
+* [[http://tdta-doc-dashboard.eng.sfdc.net:3000/][Doc Dashboard]] :content_experience:dashboard:sf:
+* [[https://tools.ietf.org/html/rfc2616][RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1]] :http:rfc:specs:
+* [[https://tools.ietf.org/html/rfc6570][RFC 6570 - URI Template]] :rfc:specs:uri:
+* [[http://josephwoodward.co.uk/2017/10/rest-%20client-for-vs-Code-an-elegant-alternative-postman][REST Client for VS Code, an elegant alternative to Postman | Joseph Woodward, Software Developer"]] :REST:tools:vscode:
+* [[https://github.com/Huachao/vscode-restclient/blob/master/README.md][vscode-restclient/README.md at master · Huachao/vscode-restclient · GitHub]] :REST:tools:vscode:
+* [[https://www.restapitutorial.com/][REST API Tutorial]] :REST:api:tutorial:
+* [[https://docs.aws.amazon.com/apigateway/api-reference/][REST API Reference - Amazon API Gateway API Reference]] :Samples:api:doc:
+* [[https://www.twilio.com/docs/][Twilio Docs: API Reference, Tutorials, and Integration - Twilio]] :Writing:api:bestpractices:doc:
+* [[https://apiguide.readthedocs.io/en/latest/#][API Design Guide — API Design Guide 0.1 documentation]] :api:doc:
+* [[http://www.sphinx-doc.org/en/master/][Overview — Sphinx 2.0.0+/14b67a0 documentation]] :api:doc:framework:sphinx:
+* [[https://docs.sencha.com/][Docs | Sencha Documentation]] :api:docs:sample:sf:
+* [[https://salesforce.stackexchange.com/][Salesforce Stack Exchange]] :api:sf:stackexchange:
+* [[https://sites.google.com/a/salesforce.com/tech-doc-tools-and-automation/release-engineering][Release Engineering - Tech Doc Tools and Automation]] :engineering:release:sf:tools:
+* [[https://sites.google.com/a/salesforce.com/tech-doc-tools-and-automation/][Tech Doc Tools and Automation]] :engineering:sf:tools:
+* [[https://www.perforce.com/perforce/r10.1/manuals/p4eclipse/topics/glossary.html][Glossary of Perforce Terminology]] :sf:terminology:
+* [[https://confluence.internal.salesforce.com/display/DOCTEAM/Doc+Releases+Outside+the+Regular+Release+Cycle][Doc Releases Outside the Regular Release Cycle - Content Experience - Salesforce]] :confluence:migration:sf:
+* [[https://confluence.internal.salesforce.com/pages/releaseview.action?spaceKey=DOCSTYLE&title=Salesforce+Documentation+Internal+Standards+and+Guidelines][Internal Standards and Guidelines - Salesforce Documentation Internal Standards and Guidelines - Salesforce]] :StyleGuides:migration:sf:standards:
+* [[https://sites.google.com/a/salesforce.com/docreleasecoordinators/home][Doc Releases Google site]] :docwiki:migration:sf:
+* [[https://developer.salesforce.com/docs/atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm][Salesforce Fields Reference | Salesforce Field Reference Guide | Salesforce Developers]] :api:sf:
+* [[https://sites.google.com/a/salesforce.com/documentation-group/Home/overview-of-the-doc-process/writing-api-and-toolkit-guides][API, Object Reference, and Toolkit Guides - Content Experience]] :api:sf:
+* [[https://focusonforce.com/platform/salesforce-instances-vs-orgs-vs-environments/][Salesforce Instances vs Orgs vs Environments]] :sf:terminology:
+* [[https://bulletjournal.com/][Bullet Journal]] :Blogs:organize:workflow:
+* [[https://indieweb.org/Getting_Started][Getting Started - IndieWeb]] :Blogs:indieweb:organize:website:
+* [[http://calnewport.com/][Cal Newport - Author of Deep Work, Study Hacks Blog]] :Blogs:organize:workflow:
+* [[http://us.magnificat.net/][Magnificat Home]] :catholicism:
+* [[https://www.yourcatholicguide.com/][Your Catholic Guide - A Simple Catholic Guide and Information about its Teaching, Prayers and Traditions]] :catholicism:
+* [[http://www.rsah.ca/services/mobile-vet/][Mobile Vet | Riverside South Animal Hospital]] :vet:
+* [[https://confluence.internal.salesforce.com/display/public/DOCSTYLE/Salesforce+Documentation+Internal+Standards+and+Guidelines][Salesforce Documentation Internal Standards and Guidelines - Salesforce Documentation Internal Standards and Guidelines - Salesforce]] :confluence:content_experience:guidelines:sf:
+* [[https://sites.google.com/a/salesforce.com/documentation-group/][DOCWIKI Content Experience]] :content_experience:docwiki:migration:sf:
+* [[https://docs.google.com/drawings/d/1NcnA9bYES1oPNmY0qv6S1Un07Gh-pOzZKtL9PkrfGOQ/edit][Google Drawings]] :sf:tools:
+* [[https://git.soma.salesforce.com/][GitHub]] :git:sf:tools:
+* [[https://confluence.internal.salesforce.com/pages/viewpage.action?spaceKey=STP&title=Salesforce+Test+Playground+Home][Salesforce Test Playground Home - Salesforce Test Playground - Salesforce]] :confluence:sf:
+* [[https://confluence.internal.salesforce.com/display/ITSAM/Approved+and+Restricted+Software+in+Salesforce#ApprovedandRestrictedSoftwareinSalesforce-FOSS][Approved and Restricted Software in Salesforce - SAM Central - Salesforce]] :approved_software:sf:
+* [[https://developer.salesforce.com/][Salesforce Developers | API Documentation, Developer Forums & More]] :api:developer:sf:
+* [[https://confluence.internal.salesforce.com/display/DOCTEAM/Content+Experience+Home][Content Experience Home - Confluence]] :confluence:content_experience:sf:
+* [[https://sites.google.com/a/salesforce.com/documentation-group/Home/using-gus-for-writers][Using GUS for Writers - Content Experience]] :gus:sf:
+* [[https://trailhead.salesforce.com/content/learn/modules/api_basics][API Basics | Salesforce Trailhead]] :api:sf:trailhead:
+* [[https://aloha--c.visualforce.com/apex/aloha_appLauncher?sfdc.tabName=01rd000000030Y4][Aloha!]] :sf:
+* [[https://www.mbopartners.com/][Contingent Workforce Management for Enterprises and Business Management Services for the Self Employed | MBO Partners]] :contract:mbo:
+* [[http://info.mbopartners.com/rs/mbo/images/MBO_Milestone_Entry_Instructions.pdf][Instructions for Recording Your Milestones]] :contract:mbo:
+* [[http://info.mbopartners.com/rs/mbo/images/MBO_Time_and_Expense_Entry_Instructions.pdf][Time and Client-Billable Expenses]] :contract:mbo:
+* [[https://docs.windriver.com/][Zoomin production docs portal]] :zoomin:
+* [[https://trello.com/b/MuylLHDh/kl-20-testing-customization-and-ui-ux][KL 2.0 Testing (Customization and UI/UX) | Trello]] :KL2_0:WR:zoomin:
+* [[https://upload.zoominsoftware.io/][Dashboard [Jenkins]]] :WR:zoomin:
+* [[http://archive.ixiasoft.com/en/products/dita-cms/documentation/4-5/installing-and-configuring-textml-server-dita-cms/creating-docbase-dita-cms-documents/install-new-docbase-windows/install-existing-docbase-new-instance/][IXIASOFT :: Install an existing docbase as a new instance]] :IXIASOFT:docbase:zoomin:
+* [[https://docs.zoominsoftware.io/bundle/zoomin-configuration-guide/page/content_manage/t_bundle_name.html][Assigning a Bundle Name]] :KL2_0:zoomin:
+* [[http://h.churchapp.mobi/rcia][Catholic RCIA Program]] :catholicism:rcia:
+* [[http://ccc.usccb.org/flipbooks/uscca/files/assets/basic-html/page-1.html][United States Catholic Catechism for Adults]] :catholicism:rcia:
+* [[http://projectnorthstar.jdevcloud.com/][Cloudbase3 Free Joomla Template]] ::
+* [[http://projectnorthstar.jdevcloud.com/administrator/index.php][Control Panel - CloudBase 3 - Joomla Template - Administration]] :PNSAC:joomla:
+* [[https://www.smartaddons.com/blog/best-free-gallery-modules-plugins-for-joomla][Best Free Gallery Modules & Plugins for Joomla]] :PNSAC:joomla:
+* [[https://extensions.joomla.org/tags/downloads/][Joomla! Extensions Directory]] :PNSAC:joomla:
+* [[https://extensions.joomla.org/extensions/extension/photos-a-images/galleries/ignite-gallery/][Ignite Gallery, by Matt Thomson - Joomla Extension Directory]] :joomla:pnsac:
+* [[https://extensions.joomla.org/extensions/extension/photos-a-images/galleries/sigplus/][sigplus, by Levente Hunyadi - Joomla Extension Directory]] :PNSAC:joomla:
+* [[http://www.earlychristianwritings.com/][Early Christian Writings: New Testament, Apocrypha, Gnostics, Church Fathers]] :early_christianity:
+* [[https://earlychurchhistory.org/][Early Christianity]] :catholicism:early_christianity:
+* [[http://archive.ixiasoft.com/en/products/dita-cms/documentation/4-2/installing-output-generator-standard-edition/installing-output-generator/][IXIASOFT :: Installing the Output Generator (4.2)]] :IXIASOFT:WR:cms:infrastructure:zoomin:
+* [[https://www.geogebra.org/m/zctE8msW][Trigonometry: Basic and More – GeoGebra]] :geogebra:majed:maths:
+* [[https://www.geogebra.org/m/jBc8Nqdd#material/G7xgNRxm][Unit Circle - exact values – GeoGebra]] :geogebra:majed:maths:
+* [[https://ca.ixl.com/][IXL | Math and English Language Arts Practice]] :curriculum:maths:teaching:
+* [[https://windriver-staging.zoominsoftware.io/][windriver Documentation Portal STAGING]] :KL2_0:WR:infrastructure:zoomin:
+* [[https://jive.windriver.com/community/marketing/corporate_marketing/web-team/projects-doc/kl-20][KL 2.0 | Internal Communities]] :KL2_0:WR:infrastructure:zoomin:
+* [[https://jive.windriver.com/docs/DOC-32520][KLIB-Importing Download List and Tree Pages | Internal Communities]] :WR:downloadlist:downloadtree:
+* [[http://www.historytimeline.org/docs/eusebius/church_history/][Eusebius: Church History]] :biblestudy:catholicism:churchfathers:online:theology:
+* [[https://www.catholic.com/magazine/print-edition/getting-started-with-the-fathers-of-the-church][Getting Started with the Fathers of the Church | Catholic Answers]] :catholicism:churchfathers:theology:
+* [[http://catholic-resources.org/index.html][Catholic Resources - Felix Just, S.J.]] :biblestudy:catholicism:online:theology:
+* [[http://www.scborromeo.org/bible.htm][Saint Charles Borromeo Catholic Church of Picayune, MS - About Us - Organizations and Ministries - Bible Study]] :biblestudy:catholicism:online:theology:
+* [[https://stpaulcenter.com/][St. Paul Center]] :biblestudy:catholicism:online:theology:
+* [[http://www.ccel.org/fathers.html][Early Church Fathers - Christian Classics Ethereal Library]] :catholicism:churchfathers:theology:
+* [[http://readthefathers.org/][Read the Church Fathers]] :catholicism:churchfathers:theology:
+* [[https://www.ixiasoft.com/documentation/TEXTML_Server/4.4/Administration_Guides_Windows/cym1447937263414.html][Replace an installed docbase with a backup copy]] :IXIASOFT:cms:docbase:textml:
+* [[https://github.com/iandol/scrivomatic][How to optimise Scrivener usage with Pandoc (via Pandocomatic)]] :pandoc:scrivener:tools:
+* [[https://heerdebeer.org/Software/markdown/pandocomatic/][Pandocomatic]] :pandoc:scrivener:tools:
+* [[https://windriver.app.box.com/folder/49356833059][Zoomin-Windriver-Share-Folder | Powered By Box]] :KL2_0:WR:box:infrastructure:
+* [[http://www.papalencyclicals.net/][The Papal Encyclicals Online]] :catholicism:church:
+* [[https://tacet.wordpress.com/2012/06/21/using-scrivener-with-bibliographic-software/][Using Scrivener with Bibliographic Software – The Least Creative Homepage in the History of Humanity]] :Academic_workflow:citations:
+* [[https://www.sacredspace.ie/content/about-sacred-space][About Sacred Space | Sacred Space]] :catholicism:ignation_prayer:ignatius:
+* [[https://app.betterimpact.com/Login/Volunteer][MyVolunteerPage - VOLUNTEER Login]] :PNSAC:
+* [[https://docs.zoominsoftware.io/][ZoominDocs Documentation Portal]] :KL2_0:WR:zoomin:
+* [[http://onlineministries.creighton.edu/CollaborativeMinistry/daily.html][Creighton U Daily Reflections]] :catholicism:ignatius:readings:
+* [[http://onlineministries.creighton.edu/][OnlineMinistries]] :catholicism:ignation_prayer:ignatius:
+* [[https://windriver.webex.com/mw3100/mywebex/default.do?siteurl=windriver][Webex Enterprise Site]] :WR:webex:
+* [[https://www.collegedominicain.info/dominicus/en/1/Login/][Dominicus]] :duc:theology:
+* [[http://www.dominicanu.ca/explorations-spiritualities][Explorations into Spiritualities | Dominican University College]] :duc:theology:
+* [[https://www.td.com/ca/en/personal-banking/products/credit-cards/travel-rewards/first-class-travel-visa-infinite-card/][TD First Class Travel Visa Infinite Card | TD Canada Trust]] :infinite:td:visa:
+* [[https://www.ignatianspirituality.com/ignatian-prayer/the-spiritual-exercises/an-ignatian-prayer-adventure][An Ignatian Prayer Adventure - Spiritual Exercises Online Retreat]] :catholicism:ignation_prayer:
+* [[https://www.discerninghearts.com/catholic-podcasts/][Discerning Hearts Catholic Podcasts]] :catholicism:
+* [[https://www.ignatianspiritualexercises.com/][Ignatian Spiritual Exercises]] :catholicism:ignatius:
+* [[http://spex.ignatianspirituality.com/][Home - The Spiritual Exercises | St. Ignatius of Loyola]] :catholicism:
+* [[https://catholicexchange.com/][Catholic Exchange]] :catholicism:
+* [[https://catholicexchange.com/about][About Catholic Exchange]] :catholicism:
+* [[http://www.newmanreader.org/][Newman Reader - Works of John Henry Newman]] :catholicism:newman:theology:
+* [[https://www.kennethhensley.com/][Apologia - Home]] :catholicism:
+* [[https://wind.my.workfront.com/myWork][My Work - Workfront]] :WR:infrastructure:workfront:
+* [[https://dita4practitioners.github.io/dita-specialization-tutorials/index.html][DITA Configuration and Specialization Tutorials]] :DITA:DITA_OT:
+* [[http://www.ignitumtoday.com/2013/07/06/how-to-join-a-third-order/][How to Join a Third Order - IGNITUM TODAY : IGNITUM TODAY]] :catholicism:thirdorder:
+* [[http://www.catholic365.com/article/662/how-to-discern-a-third-order-vocation.html][How to Discern a Third Order Vocation]] :catholicism:thirdorder:
+* [[https://jive.windriver.com/community/customer-success/techpubs][Information Development | Internal Communities]] ::
+* [[https://mindtouchext.statuspage.io/][MindTouch Status]] ::
+* [[http://www.ixiasoft.com/en/products/textml-server/documentation/4-3/textml-server-administration-guide-linux-platforms/reinstalling-docbase/replace-installed-docbase-backup-copy/][IXIASOFT :: Replace an installed docbase with a backup copy]] :WR:cms:docbase:textml:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/4-4/installing-and-configuring-textml-server-dita-cms/creating-docbase-dita-cms-documents/install-new-docbase-windows/install-existing-docbase-new-instance/][IXIASOFT :: Install an existing docbase as a new instance]] :WR:cms:docbase:textml:
+* [[http://www.usccb.org/beliefs-and-teachings/what-we-believe/catechism/dossier-editorial-commission-catechism-catholic-church.cfm][Dossier on the Catechism of the Catholic Church]] :catholicism:rcia:
+* [[http://www.unamsanctamcatholicam.com/home/parish-resources/83-parish-resources/120-rcia-classes.html][RCIA Notes and Outlines]] :catholicism:rcia:
+* [[https://static1.squarespace.com/static/55131945e4b0a07e16795644/t/59bebee24c326dffa80f5180/1505672943445/RCIA+Handbook.pdf][RCIA Handbook]] :catholicism:rcia:
+* [[http://www.universalis.com/Canada/today.htm][Universalis: Today]] :catholicism:loth:
+* [[http://www.usccb.org/][United States Conference of Catholic Bishops]] :catholicism:
+* [[http://nlo.cccb.ca/index.php][CCCB - National Liturgy Office]] :catholicism:
+* [[http://www.scborromeo.org/links-catholic.htm][Saint Charles Borromeo Catholic Church of Picayune, MS - Links - Catholic websites]] :catholicism:
+* [[https://mycatholic.life/][My Catholic Life! - Presenting the beauty and splendor of the Catholic faith!]] :catholicism:
+* [[https://en.wikipedia.org/wiki/Rite_of_Christian_Initiation_of_Adults][Rite of Christian Initiation of Adults - Wikipedia]] :catholicism:rcia:
+* [[https://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html][Fides et Ratio (14 September 1998) | John Paul II]] :catholicism:
+* [[https://w2.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html][Humani Generis (August 12, 1950) | PIUS XII]] :catholicism:
+* [[https://www.catholic.com/][Home | Catholic Answers]] :catholicism:
+* [[http://ocarm.org/][The Carmelites | Los Carmelitas | I Carmelitani]] :catholicism:
+* [[http://ocarm.org/en/content/ocarm/carmelite-way-prayer][The Carmelite Way of Prayer | THE OFFICIAL WEBSITE OF THE CARMELITE ORDER]] :catholicism:
+* [[https://jive.windriver.com/docs/DOC-67431?et=watches.email.document][Web Assets Roadmap | Internal Communities]] :WR:cxinfra:
+* [[https://jive.windriver.com/docs/DOC-67435?et=watches.email.document][Web Team Planning | Internal Communities]] :WR:cxinfra:
+* [[http://www.philipkosloski.com/][Philip Kosloski]] :catholicism:
+* [[https://www.thecatholicthing.org/][The Catholic Thing]] :catholicism:
+* [[https://www.catholicscientists.org/][Society of Catholic Scientists]] :catholicism:
+* [[http://www.vaticannews.va/en.html][News from the Vatican - News about the Church - Vatican News]] :catholicism:
+* [[http://w2.vatican.va/content/vatican/en.html][The Holy See]] :catholicism:
+* [[https://catholicottawa.ca/][Archdiocese of Ottawa | Ottawa, Ontario]] :catholicism:
+* [[https://chnetwork.org/][The Coming Home Network - Discover Catholicism, Come Home]] :catholicism:
+* [[https://catholic-link.org/][Catholic Link » Resources for the New Evangelization]] :catholicism:
+* [[http://www.olomc-ottawa.com/][Our Lady of Mount Carmel Parish - Ottawa]] :catholicism:
+* [[https://www.catholicculture.org/][Catholic News, Commentary, Information, Resources, and the Liturgical Year | Catholic Culture]] :catholicism:
+* [[http://internal.wrs.com/engineering/engops/techpubs/docDrafts][Wind River Titanium Cloud Work-in-Progress Documentation Index]] :TechPubs:WR:
+* [[http://www.bbc.co.uk/learningenglish/english/][BBC Learning English - BBC Learning English home page]] :esl:
+* [[http://www.natecla.org.uk/content/635/Useful-ESOL-teaching-websites][NATECLA - Useful ESOL teaching websites - Useful websites for ESOL teaching]] :esl:
+* [[https://esol.britishcouncil.org/][Learners | ESOL Nexus]] :esl:
+* [[http://dlinq.middcreate.net/digitaldetox/][Digital Detox – Digital Learning and Inquiry (DLINQ)]] :UoL:
+* [[https://www.startpage.com/eng/#hmb][StartPage Search Engine]] :search:
+* [[https://jive.windriver.com/docs/DOC-26800][Frame Conversion Server | Internal Communities]] :TechPubsInfrastructure:WR:conversion:frame:
+* [[https://raoofphysics.github.io/phd-starter-kit/][PhD Starter Kit – Preparing for Life in Academia]] :StudySkills:StyleGuides:UofL:
+* [[https://www.stouffvilleanglican.ca/church-seasons/][Church Seasons — Christ Church Anglican Stouffville]] :CS:church:liturgy:
+* [[http://www.crivoice.org/colorsof.html][Colors of the Christian Church Year]] :CS:church:liturgy:
+* [[http://www.leeds.anglican.org/sites/default/files/Liturgical%20calendar%202018_0.pdf][2018 Liturgical year]] :CS:church:liturgy:
+* [[https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar#na][The Calendar | The Church of England]] :CS:church:liturgy:
+* [[https://windriver.zoominsoftware.io/][Windriver Knowledge Center]] :KL2_0:KLIB:WR:zoomin:
+* [[https://www.ergophiljournal.org/][Ergo, an Open Access Journal of Philosophy]] :DiscussionResearch:
+* [[https://philpapers.org/][PhilPapers: Online Research in Philosophy]] :DiscussionResearch:
+* [[https://www.philosophersimprint.org/][Philosophers' Imprint]] :DiscussionResearch:
+* [[https://www.theguardian.com/guardian-observer-style-guide-a][Guardian and Observer style guide: A | About | The Guardian]] :StyleGuides:Writing:
+* [[https://www.collinsdictionary.com/][Collins Dictionary | Definition, Thesaurus and Translations]] :StyleGuides:Writing:
+* [[http://www.raulpacheco.org/resources/academic-writing-acwri/][Academic Writing (#AcWri) – Raul Pacheco-Vega, PhD]] :Academic_workflow:StudySkills:UoL:
+* [[https://jive.windriver.com/docs/DOC-45455][KLAUS - How to Deploy KLAUS UI and Back End Upd... | Internal Communities]] :KLAUS:KLIB:WR:
+* [[http://nunaliit.org/][Nunaliit by GCRC]] :geomatics:gic:nunaliit:
+* [[http://dailynous.com/][Daily Nous -]] :Contemporary_discussion:Discus:UofL:
+* [[https://thephilosophypaperboy.com/][The Philosophy Paperboy | Stay updated on the latest Papers]] :Contemporary_discussion:UoL:
+* [[https://london.ac.uk/?dm_i=1XJW%2C5BGGG%2CLHMYFO%2CKJ0N7%2C1][Study with the University of London, anywhere in the world | University of London]] :UofL:
+* [[https://jive.windriver.com/community/wco/wrsn/wrsn-projects/projects/security-vulnerability-notification-system][Security / Vulnerability Notification System | Internal Communities]] :WR:cve:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/4-1/dita-cms-user-guide-xmetal/workspace-configuration/synchronization/clear-information-cache/][IXIASOFT :: Clear information from the cache]] :IXIASOFT:WR:cms:
+* [[https://teamup.com/ksqjiqatq2zwnes7nn][WRSN-team]] :wrsn_calendar:
+* [[https://jive.windriver.com/docs/DOC-60841][Updating WRSN RSS feeds | Internal Communities]] :KLIB:WR:defect_processing:rss_feed:
+* [[https://jive.windriver.com/docs/DOC-22124#jive_content_id_What_defects_are_published_to_Knowledge_Library_from_Jira][Jira FAQ | Internal Communities]] :WR:defect_processing:
+* [[https://jive.windriver.com/docs/DOC-34907][Contacts for Defect Mapping/KL Hierarchy Changes | Internal Communities]] :WR:defect_processing:
+* [[https://jive.windriver.com/docs/DOC-60924][Defect Exception Report analysis | Internal Communities]] :WR:defect_processing:
+* [[https://klstaging.windriver.com/Special:Userlogin#tab=login][KL (staging site)]] :KLIB:WR:kl_login:
+* [[https://jive.windriver.com/community/wco/wrsn/overview][Wind River Support Network | Internal Communities]] :WR:wrsn_jive:
+* [[http://watchthatmac.com/devonthink-dropbox-setup/][DevonThink Dropbox Setup – Watch That Mac]] :DevonThink:UofL:
+* [[https://status.helixdevicecloud.com/][Helix Device Cloud Status]] :WR:
+* [[https://jive.windriver.com/docs/DOC-50566][Jira - Knowledge Library Integration | Internal Communities]] :WR:jira_defect:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/3-4/installing-and-configuring-output-generator/installing-and-configuring-output-generator/understanding-output-generator-process/][IXIASOFT :: Understanding the Output Generator process]] :DITA_OT:IXIASOFT:
+* [[http://stackoverflow.com/questions/5806257/ant-xslt-task-with-fileset-running-out-of-memory-not-freeing-up-memory][Ant XSLT task with fileset running out of memory/not freeing up memory - Stack Overflow]] :Ant:DITA_OT:xslt:
+* [[https://www.masteringemacs.org/article/complete-guide-mastering-eshell][Mastering Eshell - Mastering Emacs]] :emacs:eshell:
+* [[http://www.perseus.tufts.edu/hopper/][Perseus Digital Library]] :latin:
+* [[http://www.perseus.tufts.edu/hopper/text?doc=Aristot.%20Nic.%20Eth.][Aristotle, Nicomachean Ethics, bekker page 1094a]] :Ethics:Reference:UofL:
+* [[https://en.wikipedia.org/wiki/Epic_of_Gilgamesh][Epic of Gilgamesh - Wikipedia]] :gilgamesh:
+* [[http://www.jasoncolavito.com/epic-of-gilgamesh.html][Epic of Gilgamesh - Jason Colavito]] :gilgamesh:
+* [[http://public.wsu.edu/~gened/orpheus/orpheus_gilgamesh.htm][orpheus_gilgamesh]] :gilgamesh:
+* [[http://www.studygs.net/][Study Guides and Strategies]] :Reference:StudySkills:UofL:
+* [[https://pinboard.in/faq/][Pinboard: Frequently Asked Questions]] :pinboard:
+* [[https://pinboard.in/u:drewhodge/][Pinboard: bookmarks for drewhodge]] ::
+* [[https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/monitoring-windows.html][Monitoring Windows Machines · Nagios Core Documentation]] :TPINF:WR:nagios:
+* [[https://github.com/dita4publishers/org.dita4publishers.word2dita][GitHub - dita4publishers/org.dita4publishers.word2dita: Word-to-DITA transformation framework. Enables generation of DITA maps and topics from styled Microsoft Word documents.]] ::
+* [[https://pinboard.in/u:drewhodge][My pinboard]] :2023jan26:favorites:pinboard:
+* [[https://pinboard.in/howto/][Pinboard: howto page]] :_pinboard:
+* [[http://dictionary.cambridge.org/][Cambridge Dictionaries Online]] :2023jan26:
+* [[http://papersapp.com/online/][Papers Online]] :UofL:root:
+* [[http://www.dita-ot.org/][DITA OT]] ::
+* [[https://github.com/karthik/markdown_science/wiki/Tools-to-support-your-markdown-authoring][Tools to support your markdown authoring · karthik/markdown_science Wiki · GitHub]] :StudySkills:UofL:
+* [[http://thephilosophyforum.com/][The Philosophy Forum]] :DiscussionResearch:UofL:
+* [[https://onphilosophy.wordpress.com/][On Philosophy | In search of questions]] :DiscussionResearch:UofL:
+* [[https://onphilosophy.wordpress.com/category/epistemology/][Epistemology | On Philosophy]] :DiscussionResearch:UofL:
+* [[http://philsci-archive.pitt.edu/][An Archive for Preprints in Philosophy of Science - Philsci-Archive]] :Reference:UofL:
+* [[http://www.wi-phi.com/contributor/jennifer-nagel][Wireless Philosophy | Jennifer Nagel | Wi Phi]] :Reference:UofL:
+* [[https://knowledge.windriver.com/@api/deki/contexts][CID contexts XML file]] :KLIB:WR:
+* [[http://melissajacquart.com/wp-content/uploads/2014/09/How-to-Read-Philosophy-Handout.pdf][How to Read Philosophy]] :StudySkills:UofL:
+* [[http://web.mit.edu/philosophy/guides/pinkguide.pdf][pinkguide_revised]] :StudySkills:UofL:
+* [[http://legacy.earlham.edu/~peters/courses/notes.htm][Peter Suber, "Taking Notes on Philosophical Texts"]] :StudySkills:UofL:
+* [[https://en.wikipedia.org/wiki/SQ3R][SQ3R - Wikipedia]] :StudySkills:UofL:
+* [[http://www.erraticimpact.com/html/tips_on_writing_academic_essays.htm][Tips for Writing Academic Essays and Term Papers in Philosophy at Erratic Impact]] :StudySkills:UofL:
+* [[http://www.philosophypages.com/sy.htm#rea][Philosophy Study Guide]] :StudySkills:UofL:
+* [[https://en.wikipedia.org/wiki/Portal:Philosophy][Portal:Philosophy - Wikipedia]] :DiscussionResearch:UofL:
+* [[http://philosopherspipe.com/about.html][Philosopher's Pipe (aggregator)]] :DiscussionResearch:UofL:
+* [[https://www.rep.routledge.com/institutional-login][Routledge Institutional Login]] :DiscussionResearch:UofL:
+* [[http://classics.mit.edu/Aristotle/nicomachaen.html][The Internet Classics Archive | Nicomachean Ethics by Aristotle]] :Ethics:Reference:UofL:
+* [[http://www.dartmouth.edu/~acskills/docs/using_your_textbook.doc][using your textbook]] :StudySkills:UofL:
+* [[http://www.dartmouth.edu/~acskills/docs/know_your_texts.doc][getting to know your textbook]] :StudySkills:UofL:
+* [[http://www.dartmouth.edu/~acskills/docs/harvard_reading_report.doc][harvard report]] :StudySkills:UofL:
+* [[http://www.dartmouth.edu/~acskills/docs/6_reading_myths.doc][6 reading myths]] :StudySkills:UofL:
+* [[http://www.dartmouth.edu/~acskills/success/reading.html][Reading Your Textbooks Effectively and Efficiently]] :StudySkills:UofL:
+* [[https://student.unsw.edu.au/effective-reading][Tips for Effective Reading | UNSW Current Students]] :StudySkills:UofL:
+* [[http://lss.info.yorku.ca/resources/reading-skills-for-university/][Reading Skills for University | Learning Skills Services]] :StudySkills:UofL:
+* [[http://www.manulife.ca/wps/portal/manulifeca/Manulife.caHome/Home/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJ9vZycjN1MTQwsTE2NDDx9TF0CvYzNDQ3cjYAKIoEKDHAARwNC-sP1o8BK3D0NwlxDwrwsTAyM3Aw8TYMNTMzMfYzdA42hCvBY4eeRn5uqX5AbYZBl4qgIANnDdig!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/][Manulife]] :Admin:WR:
+* [[http://www.philosophyideas.com/][Philosophy Ideas Database]] :Academic_workflow:Reference:UofL:
+* [[https://jive.windriver.com/docs/DOC-51094][Jira Changes | Internal Communities]] :JIRA:WR:
+* [[http://www.chronicle.com/blogs/profhacker/][ProfHacker - Blogs - The Chronicle of Higher Education]] :Academic_workflow:UofL:
+* [[http://www.oxfordreference.com/][Oxford Reference - Answers with Authority]] :Reference:UofL:
+* [[http://www.oxfordreference.com/page/phil#E][Dictionary of Philosophy Companion Website - Oxford Reference]] :Reference:UofL:
+* [[https://howtostudyincollege.com/][How To Study In College | Get an 'A' in every class]] :StudySkills:UofL:
+* [[http://www.wikihow.com/Study][How to Develop Effective and Efficient Study Skills]] :StudySkills:UofL:
+* [[http://mywiki.wooledge.org/BashGuide][BashGuide - Greg's Wiki]] ::
+* [[https://docs.docker.com/engine/reference/glossary/][Docker Glossary - Docker]] :SWAGGER:WR:
+* [[https://github.com/wsargent/docker-cheat-sheet][Docker Cheat Sheet]] :SWAGGER:WR:
+* [[http://www.jimpryor.net/teaching/courses/epist/notes/][PHIL-AD 240. Epistemology]] :Epistemology:Reference:UofL:
+* [[https://www.oxford-royale.co.uk/articles/student-life-easier-read-faster-notes-absorb-information-time.html][How to Read Faster, Take Better Notes and Absorb More Information in Less Time: Make Your Student Life Easier!]] :StudySkills:UofL:
+* [[http://web.mit.edu/uaap/learning/study/reading.html][MIT Center for Academic Excellence: Tooling and Studying - Effective Reading and Note-Taking]] :StudySkills:UofL:
+* [[http://whinkapp.com/how-to-effectively-study-a-textbook-using-cornell-note-taking-techniques/][Study from a Textbook Using Cornell Note Taking Technique]] :StudySkills:UofL:
+* [[http://www.cornellcollege.edu/academic-support-and-advising/study-tips/reading-textbooks.shtml][Reading a Textbook for True Understanding - Cornell College]] :StudySkills:UofL:
+* [[http://www.philosophersmag.com/index.php][The Philosophers' Magazine Online]] :Contemporary_discussion:UofL:
+* [[http://www.philosophersmag.com/index.php/reflections/48-a-new-and-improved-cogito-argument][A New and Improved Cogito Argument]] :Contemporary_discussion:UofL:
+* [[https://chocolatey.org/][Chocolatey]] ::
+* [[https://ontologicalblog.wordpress.com/2016/10/14/an-absolute-beginners-guide-to-spacemacs-for-academic-writing/][An Absolute Beginners Guide to Spacemacs for Academic Writing – Ontological Blog]] :Academic_workflow:UofL:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/4-2/output-generator-administrators-guide/introduction/][IXIASOFT :: CMS 4.2 OutGen]] :IXIASOFT:WR:
+* [[https://zapier.com/blog/best-book-note-taking-system/][How to Better Remember and Make Use of What You Read]] :StudySkills:UofL:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/4-2/maintaining-dita-cms-deployment-toolsmiths-guide/introduction/][IXIASOFT :: Toolsmith]] :IXIASOFT:WR:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/faq/][IXIASOFT :: FAQ]] :IXIASOFT:WR:
+* [[http://www.ixiasoft.com/en/products/textml-server/documentation/4-3/textml-server-administration-guide-windows-platforms/introduction/][IXIASOFT :: TextML 4.3 Server Admin Gde]] :IXIASOFT:WR:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/4-2/dita-cms-user-guide-oxygen/introduction/][IXIASOFT :: CMS 4.2]] :IXIASOFT:WR:
+* [[http://brettterpstra.com/ios-text-editors/][iTextEditors - iPhone and iPad text/code editors and writing tools compared]] ::
+* [[https://jive.windriver.com/docs/DOC-34678][MinTouch node ordering API | Internal Communities]] :KLIB:WR:
+* [[https://jive.windriver.com/docs/DOC-29129][Submitting Video to the Knowledge Library | Internal Communities]] :KLIB:WR:
+* [[https://jive.windriver.com/docs/DOC-23824][MindTouch Template Master Mapping Information | Internal Communities]] :KLIB:WR:
+* [[http://stevemichelotti.com/customize-authentication-header-in-swaggerui-using-swashbuckle/][Customize Authentication Header in SwaggerUI using Swashbuckle]] :SWAGGER:WR:
+* [[https://jive.windriver.com/docs/DOC-25855][Test Accounts | Internal Communities]] :KLIB:WR:
+* [[http://docs.oracle.com/javase/8/docs/][Java Platform Standard Edition 8 Documentation]] ::
+* [[http://www.ulyssesapp.com/faq/#mac-export][latex]] ::
+* [[http://pymbook.readthedocs.io/en/latest/file.html][File handling — Python for you and me 0.3.alpha1 documentation]] ::
+* [[http://writingcenter.fas.harvard.edu/pages/resources][Writing Resources |]] :StudySkills:UofL:
+* [[https://www.virtualbox.org/wiki/Downloads][Downloads – Oracle VM VirtualBox]] :SWAGGER:WR:
+* [[http://www.osboxes.org/kubuntu/#kubuntu-1604-vbox][Kubuntu images for VirtualBox and VMware]] :SWAGGER:WR:
+* [[https://regex101.com/][RegExp]] ::
+* [[http://javarevisited.blogspot.com/2012/11/how-to-join-three-tables-in-sql-query-mysql-sqlserver.html][How to join three tables in SQL query – MySQL Example]] :KLIB:WR:
+* [[http://meaningoflife.tv/][MeaningofLife.tv]] :Reference:UofL:
+* [[https://ala-kl-fmsprod:16000/admin-console][FileMaker Server Admin Console]] :KLIB:WR:
+* [[http://internal.wrs.com/engineering/engops/techpubs/docDrafts/Helix%20Device%20Cloud/Helix%20Device%20Cloud%202.0/index.php][Helix Device Cloud 2.0 - Work in Progress]] :SWAGGER:WR:
+* [[http://radar.oreilly.com/2015/09/building-apis-with-swagger.html][Building APIs with Swagger - O'Reilly Radar]] :SWAGGER:WR:
+* [[https://github.com/apigee-127/swagger-tools/blob/master/docs/QuickStart.md][swagger-tools/QuickStart]] :SWAGGER:WR:
+* [[http://klaus.wrs.com/][KLAUS]] :KLIB:WR:
+* [[https://jive.windriver.com/docs/DOC-45152][KLAUS Training Materials | Internal Communities]] :KLIB:WR:
+* [[https://jira.wrs.com/secure/Dashboard.jspa?selectPageId=14810][TPINF: My Dashboard - Wind River JIRA]] :TPINF:TechPubsInfrastructure:WR:tpinf_jira:
+* [[http://www.stevenmarkford.com/solution-to-error-175-the-specified-store-provider-cannot-be-found-in-the-configuration-or-is-not-valid/][Solution to Error 175 The specified store provider cannot be found in the configuration or is not valid]] :New_folder:WR:_NET_C__development:
+* [[https://msdn.microsoft.com/en-us/library/ff770157.aspx][Guide to the Data Development Platform for .NET Developers]] :New_folder:WR:_NET_C__development:
+* [[https://jira.wrs.com:8443/browse/KLIB-1973][[KLIB-1973] KLAUS: Create new MindTouch users to associate with importers - Wind River JIRA]] :New_folder:WR:_NET_C__development:
+* [[https://jira.wrs.com:8443/browse/TECHPUBINF-658][[TECHPUBINF-658] Support Swagger REST API Reference Output - MVP release August 16 2016 - Wind River JIRA]] :New_folder:WR:_NET_C__development:
+* [[https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=the%20specified%20store%20provider%20cannot%20be%20found][the specified store provider cannot be found - Google Search]] :New_folder:WR:_NET_C__development:
+* [[https://msdn.microsoft.com/en-US/library/dd0w4a2z(v=VS.80).aspx][Obtaining the DbProviderFactory]] :New_folder:WR:_NET_C__development:
+* [[https://msdn.microsoft.com/en-CA/library/hh925568(v=vs.110).aspx][How to: Determine Which .NET Framework Versions Are Installed]] :New_folder:WR:_NET_C__development:
+* [[https://msdn.microsoft.com/en-us/library/cc982042(v=vs.100).aspx][.edmx File Overview (Entity Framework)]] :New_folder:WR:_NET_C__development:
+* [[http://stackoverflow.com/questions/15142841/no-entity-framework-provider-found-for-mysql-data-mysqlclient-ado-net-provider][No Entity Framework provider found for 'MySql.Data.MySqlClient' ADO.NET provider - Stack Overflow]] :New_folder:WR:_NET_C__development:
+* [[http://www.tipsntracks.com/52/get-a-free-csharp-command-line-compiler.html][How to Get a Free C# Command Line Compiler – Tips n Tracks]] :New_folder:WR:_NET_C__development:
+* [[https://msdn.microsoft.com/en-us/library/ms973231.aspx][Understanding and Using Assemblies and Namespaces in .NET]] :New_folder:WR:_NET_C__development:
+* [[https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=.NET+database+development+c%23++ADO.net+conceptual+overview][.NET database development c# ADO.net conceptual overview - Google Search]] :New_folder:WR:_NET_C__development:
+* [[https://msdn.microsoft.com/en-us/library/0wxwcakt(v=vs.71).aspx][Introduction to Data Access with ADO.NET]] :New_folder:WR:_NET_C__development:
+* [[https://asadsiddiqi.wordpress.com/2008/03/14/adonet-explained-step-by-step/][ADO.Net Explained step by Step | Asad Siddiqi]] :New_folder:WR:_NET_C__development:
+* [[https://jive.windriver.com/docs/DOC-45130][klaus-rollout-server-and-tool-config.pdf | Internal Communities]] :New_folder:WR:_NET_C__development:
+* [[http://petstore.swagger.io/][Swagger Pet Store Example]] :SWAGGER:WR:
+* [[https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md][OpenAPI-Specification/2.0.md at master · OAI/OpenAPI-Specification · GitHub]] :SWAGGER:WR:
+* [[https://github.com/swagger-api/swagger-codegen/blob/master/README.md][swagger-codegen/README.md at master · swagger-api/swagger-codegen · GitHub]] :SWAGGER:WR:
+* [[http://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069?cid=SBX_ddj_related_mostpopular_default_open_source&itc=SBX_ddj_related_mostpopular_default_open_source][RESTful Web Services: A Tutorial | Dr Dobb's]] :SWAGGER:WR:
+* [[http://www.lmfdb.org/][LMFDB - The L-functions and modular forms database]] :2023jan26:maths:modular_forms:reimann:
+* [[http://idratherbewriting.com/pubapis_swagger/][Swagger tutorial | I'd Rather Be Writing]] :SWAGGER:WR:
+* [[http://spacemacs.org/][Spacemacs: Emacs advanced Kit focused on Evil]] :Emacs_Spacemacs:
+* [[http://jr0cket.co.uk/2015/08/spacemacs-first-impressions-from-an-emacs-driven-developer.html][Spacemacs - First Impressions From an Emacs Driven Developer | jr0cket]] :Emacs_Spacemacs:
+* [[http://robferguson.org/2015/06/06/build-your-microservices-api-with-swagger/][Build your Microservices API with Swagger and Express]] :SWAGGER:WR:
+* [[http://webapplog.com/you-dont-know-node/][You Don’t Know Node: Quick Intro to Core Features]] ::
+* [[http://www.xml.com/lpt/a/316][XML.com: A Technical Introduction to XML]] :XML:
+* [[http://www.w3.org/standards/xml/][XML Technology - W3C]] :XML:
+* [[http://daringfireball.net/projects/markdown/][Daring Fireball: Markdown]] :2023jan26:markdown:markdown_html5:
+* [[http://daringfireball.net/projects/markdown/syntax][Daring Fireball: Markdown Syntax Documentation]] :Markdown:
+* [[http://en.wikipedia.org/wiki/Markdown][Markdown - Wikipedia, the free encyclopedia]] :Markdown:
+* [[http://diveintohtml5.org/][Dive Into HTML5]] :2023jan26:html5:markdown_html5:
+* [[http://www.w3.org/TR/html5/][HTML5 --W3C]] :2023jan26:html5:markdown_html5:
+* [[http://en.wikipedia.org/wiki/HTML5][HTML5 -- Wikipedia]] :2023jan26:html5:markdown_html5:
+* [[http://html5.org/][html5.org — HTML revisited]] :2023jan26:html5:markdown_html5:
+* [[http://www.w3schools.com/html5/html5_reference.asp][HTML5 Tag Reference]] :2023jan26:html5:markdown_html5:
+* [[http://www.alistapart.com/articles/previewofhtml5][A List Apart: Articles: A Preview of HTML 5]] :2023jan26:html5:markdown_html5:
+* [[http://dita-ot.sourceforge.net/doc/ot-userguide131/xhtml/index.html][DITA Open Toolkit User Guide]] ::
+* [[http://www.apple.com/][Apple]] ::
+* [[http://www.yahoo.com/][Yahoo!]] ::
+* [[http://maps.google.com/][Google Maps]] ::
+* [[http://www.youtube.com/][YouTube]] ::
+* [[http://www.wikipedia.org/][Wikipedia]] ::
+* [[javascript:void(location.href='ithoughts://link?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title))][Send to iThoughts]] ::
+* [[https://password.rim.net/secure/index.aspx][RIMnet password change]] ::
+* [[http://www.philosopherstoolkit.com/][Philosopher's Toolkit | Bozeman, Montana]] :Reference:UofL:
+* [[http://stash.wrs.com/projects][BitBucket(Stash)]] :WR:bitbucket:git:
+* [[http://ala-kl-fmsdev/fmi/webd#][KLAUS on fmsdev]] :KLIB:WR:
+* [[http://www.ucl.ac.uk/philosophy/LPSG/contents.htm][LPSG Contents]] :Reference:UofL:
+* [[http://www.flashcardmachine.com/flashcards/?topic_id=102464][Flashcard Database - Shared Flash Cards]] :StudySkills:UofL:
+* [[http://www.essay-profy.com/wp-content/uploads/2015/03/how_to_write_essay.png][how_to_write_essay.png (716×1969)]] :StudySkills:UofL:
+* [[http://www.st-andrews.ac.uk/~mnat/~ball0888/oxfordopen/Rodin.htm#menu][Rodin's Thinker]] :Examinations:UofL:
+* [[http://www.humestudies.org/][Hume Studies -- ISSN 0319-7336]] :Hume:Reference:UofL:
+* [[http://humesociety.org/][Hume Society]] :Hume:Reference:UofL:
+* [[http://www.davidhume.org/][Hume archive]] :Hume:Reference:UofL:
+* [[http://www.earlymoderntexts.com/texts][EMT - Texts]] :Reference:UofL:
+* [[http://ala-kl-fmsprod/fmi/webd][KLAUS on fmsprod]] :KLIB:WR:
+* [[https://klstaging.windriver.com/deki/cp/][klstaging--control panel]] :KLIB:WR:
+* [[https://www.youtube.com/watch?v=MDjprX6AJuw][Summer school "Free will and Moral responsibility". "Freedom and Resentment". - YouTube]] :Freedom:Reference:UofL:
+* [[http://informationphilosopher.com/][The Information Philosopher - dedicated to the new information philosophy]] :Reference:UofL:
+* [[http://sqapo.com/schopenhauer.htm][Squashed Philosophers - Schopenhauer - World as Will and Idea]] :Reference:UofL:
+* [[https://www.masteringemacs.org/][Mastering Emacs]] ::
+* [[https://www.masteringemacs.org/article/highlighting-by-word-line-regexp][Highlighting by Word, Line and Regexp - Mastering Emacs]] :StudySkills:UofL:
+* [[http://www.philosophypages.com/][Philosophy Pages]] :Reference:UofL:
+* [[http://podcasts.ox.ac.uk/series/general-philosophy][General Philosophy | University of Oxford Podcasts - Audio and Video Lectures]] :Reference:UofL:
+* [[http://podcasts.ox.ac.uk/people/peter-millican][Peter Millican | University of Oxford Podcasts - Audio and Video Lectures]] :Reference:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/managing-stress.php][Managing stress - Skills for OU Study - Open University]] :Examinations:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/examinations.php][Examinations - Skills for OU Study - Open University]] :Examinations:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/revision-techniques.php][Revision techniques - Skills for OU Study - Open University]] :Examinations:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/revision.php][Revision - Skills for OU Study - Open University]] :Examinations:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/giving-presentations.php][Giving presentations - Skills for OU Study - Open University]] :StudySkills:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/time-management-skills.php][Time management skills - Skills for OU Study - Open University]] :StudySkills:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/critical-reading-techniques.php][Critical reading techniques - Skills for OU Study - Open University]] :StudySkills:UofL:
+* [[http://www2.open.ac.uk/students/skillsforstudy/developing-academic-english.php][Developing academic English - Skills for OU Study - Open University]] :StudySkills:UofL:
+* [[https://app.pluralsight.com/library/][Pluralsight]] ::
+* [[http://www.londoninternational.ac.uk/courses/undergraduate/birkbeck/ba-diphe-certhe-philosophy#study-materials][Philosophy (BA, Dip HE and Cert HE) | University of London International Programmes]] :Examinations:UofL:
+* [[http://philosophos.org/london_university/lond4.html#introduction][University of London International Programme: Diploma and BA in Philosophy (4)]] :Examinations:UofL:
+* [[http://www.iep.utm.edu/sqr-opp/][Square of Opposition | Internet Encyclopedia of Philosophy]] :Logic:Reference:UofL:
+* [[http://plato.stanford.edu/entries/moral-dilemmas/][Moral Dilemmas (Stanford Encyclopedia of Philosophy)]] :Dillemma:Reference:UofL:
+* [[http://carleton.ca/testingcentre/][CU Testing Centre - Carleton University]] :Examinations:UofL:
+* [[http://carleton.ca/testingcentre/contact-us/][Proctoring Tests and Exams in Ottawa, Canada]] :Examinations:UofL:
+* [[http://londoninternational-blog.com/][University of London International Programmes – Official Student Blog | Experiences of being a student, distance learning, work/life balance.]] :UofL:root:
+* [[http://electronicphilosopher.blogspot.ca/2012/05/bernard-williams-on-idea-of-equality.html][Bernard Williams on the idea of equality]] :Equality:Reference:UofL:
+* [[http://pink-scare.blogspot.ca/2010/04/bernard-williams-on-idea-of-equality.html][pink scare: Bernard Williams on the Idea of Equality]] :Equality:Reference:UofL:
+* [[http://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec20.pdf][http://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/lecture-notes/MIT24_231F09_lec20.pdf]] :Equality:Reference:UofL:
+* [[https://askaphilosopher.wordpress.com/2014/09/02/bernard-williams-the-idea-of-equality/][Bernard Williams ‘The Idea of Equality’ | Ask a Philosopher]] :Equality:Reference:UofL:
+* [[http://website2.net/bwequality.html][Williams, B--The Idea of Equality]] :Equality:Reference:UofL:
+* [[http://www.nypl.org/weblinks/1292][Best of the Web | The New York Public Library]] :Reference:UofL:
+* [[http://www.bbk.ac.uk/lib/subguides/socialscience/philosophy/Websites][Web Sites for Philosophy — Birkbeck Library]] :Reference:UofL:
+* [[http://www.zencollegelife.com/50-best-philosophy-blogs/][50 Best Philosophy Blogs - Zen College Life]] :Reference:UofL:
+* [[https://s56.etcserver.com:2096/cpsess2801833202/webmail/paper_lantern/index.html?mailclient=roundcube][Webmail - Main]] :2023jan26:hosting:
+* [[https://lab.cloud.windriver.com/#/home][Wind River® Helix™ Lab Cloud]] :WR:
+* [[http://web.williams.edu/wp-etc/philosophy/jcruz/jcruz/writingtutor/][Writing tutor for Introductory Philosophy Courses]] :StudySkills:UofL:
+* [[http://www.iep.utm.edu/][Internet Encyclopedia of Philosophy]] :DiscussionResearch:Reference:UofL:
+* [[https://inpho.cogs.indiana.edu/][InPhO - The Indiana Philosophy Ontology Project]] :DiscussionResearch:UofL:research:
+* [[http://philosophy.stackexchange.com/][Philosophy Stack Exchange]] :DiscussionResearch:UofL:
+* [[http://plato.stanford.edu/index.html][Stanford Encyclopedia of Philosophy]] :Reference:UofL:
+* [[http://www.philosophypathways.com/topten.html][Your favourite philosophy web sites!]] :Reference:UofL:
+* [[http://internal.wrs.com/engineering/engops/techpubs/docDrafts/WRLinux_&_Profiles/index.php][Wind River Linux Work-in-Progress Documentation Index]] :KLIB:WR:WRLinux_updates:
+* [[https://jive.windriver.com/docs/DOC-34122][Linux Docs UCM Content IDs | Internal Communities]] :KLIB:WR:WRLinux_updates:
+* [[https://jive.windriver.com/docs/DOC-38157?et=watches.email.document][Verification Checklist for KLIB Build Server (K... | Internal Communities]] :KLIB:KLIB_Tools:WR:
+* [[http://ala-git-techpubs.wrs.com:7990/projects/KLIB][KLIB-Tools at Tech Pubs Stash]] :KLIB:KLIB_Tools:WR:
+* [[https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow][Centralized Workflow | Atlassian Git Tutorial]] :git:workflow:
+* [[https://jive.windriver.com/docs/DOC-35586][DIAB builds]] :DIAB5_9_6:KLIB:WR:
+* [[http://winscp.net/eng/docs/after_installation?ver=5.5.2&lang=en&prevver=][WinSCP]] :OLS_UCM:WR:
+* [[http://www.windriver.com/support/][OLS -- Wind River Customer Support]] :OLS_UCM:WR:
+* [[http://ala-ucm-prd1.wrs.com/ucmprd/][UCM login]] :OLS_UCM:WR:
+* [[http://jira.wrs.com/secure/Dashboard.jspa][System Dashboard - Wind River JIRA]] :JIRA:WR:
+* [[http://windanswer.wrs.com/questions/scope:all/sort:activity-desc/tags:jira/page:1/][Questions - WindAnswer]] :JIRA:WR:
+* [[http://jira.wrs.com/secure/WikiRendererHelpAction.jspa?section=all][Text Formatting Notation Help JIRA]] :JIRA:WR:
+* [[http://jira.wrs.com/secure/Dashboard.jspa?selectPageId=14012][JIRA dashboard [dwh] - Wind River JIRA]] :JIRA:WR:
+* [[http://ala-altiris2.corp.ad.wrs.com/aexhd/winuser/Default.aspx?cmd=winUserSelfEnroll][CSR]] :HelpDesk_RemedyForce:WR:
+* [[http://ala-altiris2.corp.ad.wrs.com/aexhd/winuser/][My Helpdesk console]] :HelpDesk_RemedyForce:WR:
+* [[https://jive.windriver.com/community/corporate/it/client_services/remedyforce?sr=search&searchId=f51f7bf7-4e23-4edd-98c7-fea2d4d687ac&searchIndex=0][Remedyforce]] :HelpDesk_RemedyForce:WR:
+* [[https://windriver--bmcservicedesk.na23.visual.force.com/apex/StdSelfServiceHome?sfdc.tabName=01rd0000000IzTF][Submit issue]] :HelpDesk_RemedyForce:WR:
+* [[https://rally1.rallydev.com/#/12279619986d/dashboard][Installer › Dashboard | Rally]] :Rally:WR:
+* [[http://internal.wrs.com/finance/payroll.html][Payroll]] :Admin:WR:
+* [[https://workforceportal.elabor.com/ezLaborManagerNetRedirect/clientlogin.aspx][ADP ezLaborManager® - Client Login]] :Admin:WR:
+* [[https://performancemanager4.successfactors.com/login?company=windriver&username=dhodge][SuccessFactors Log in]] :Admin:WR:
+* [[http://internal.wrs.com/hr/index.php][Wind River Human Resources]] :Admin:WR:
+* [[http://internal.wrs.com/hr/hr_canada/index.php][Wind River Human Resources - Canada]] :Admin:WR:
+* [[http://internal.wrs.com/hr/forms/Code_of_Conduct.pdf][http://internal.wrs.com/hr/forms/Code_of_Conduct.pdf]] :Admin:WR:
+* [[http://internal.wrs.com/engineering/engops/techpubs/standards/][Tech Pubs Standards]] :StyleGuides_InternalDocs:WR:
+* [[http://internal.wrs.com/engineering/engops/techpubs/standards/wr_tech_pubs_style_guide_8.0.pdf][TechPubs Style Guide 8.0 (PDF)]] :StyleGuides_InternalDocs:WR:
+* [[http://internal.wrs.com/engineering/engops/techpubs/standards/wr_tech_pubs_style_guide/html/index.html][TechPubs Style Guide 8.1]] :StyleGuides_InternalDocs:WR:
+* [[http://www.ixiasoft.com/en/products/dita-cms/documentation/3-4/installing-and-configuring-output-generator/installing-and-configuring-output-generator/reference/dita-cms-ant-properties/][IXIASOFT :: DITA CMS Ant properties]] :IXIASOFT:WR:
+* [[https://knowledge.windriver.com/en-us][KL (production site)]] :KLIB:WR:kl_login:
+* [[https://klstaging.windriver.com/Special:Userlogin][KLIB staging server]] :KLIB:WR:
+* [[http://ala-kl-tools:5000/build_batch.html][K2 on ala-kl-tools (PRODUCTION)]] :KLIB:WR:
+* [[http://ala-kl-tools:3000/][Klimt on kl-tools (PRODUCTION)]] :KLIB:WR:
+* [[http://ala-kl-toolsdev:5000/build_batch.html][K2 on kl-toolsdev (DEVELOPMENT)]] :KLIB:WR:
+* [[http://ala-kl-toolsdev:3000/][Klimt on kl-toolsdev (DEVELOPMENT)]] :KLIB:WR:
+* [[http://localhost:5000/build_batch.html][K2 (local environment)]] :KLIB:WR:
+* [[http://localhost:3000/][Klimt (local environment)]] :KLIB:WR:
+* [[http://147.11.82.60:5000/build_batch.html][K2 on ala-mindtchtst]] :KLIB:WR:
+* [[https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview][How to run an Ubuntu Desktop virtual machine using VirtualBox 7 | Ubuntu]] :2023jan26:linux:
+* [[javascript:if(document.getSelection)%7Bs=document.getSelection();%7Delse%7Bs='';%7D;document.location='https://pinboard.in/add?next=same&url=%27+encodeURIComponent(location.href)+%27&description=%27+encodeURIComponent(s)+%27&title=%27+encodeURIComponent(document.title)][PinboardSave]] :2023jan26:favorites:
+* [[https://quickref.me/markdown][Markdown Cheat Sheet & Quick Reference]] :2023jan26:favorites:
+* [[https://www.citationmachine.net/][Citation Machine®: Format & Generate - APA, MLA, & Chicago]] :2023jan26:favorites:
+* [[https://stackexchange.com/sites][All Sites - Stack Exchange]] :2023jan26:favorites:
+* [[http://www.gcatholic.org/calendar/2020/CA-otta0-en.htm][Liturgical Calendar — Metropolitan Archdiocese of Ottawa–Cornwall (2020)]] :2023jan26:favorites:
+* [[https://github.com/AnthropologieBiblique][Anthropologie Biblique]] :2023jan26:favorites:pkm_and_research:
+* [[http://www.timeanddate.com/][Time]] :2023jan26:favorites:
+* [[https://www.worldtimebuddy.com/][Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.]] :2023jan26:favorites:
+* [[https://www.icloud.com/][iCloud]] :2023jan26:favorites:
+* [[https://weather.gc.ca/city/pages/on-118_metric_e.html][Ottawa (Kanata - Orléans), ON - 7 Day Forecast - Environment Canada]] :2023jan26:favorites:
+* [[https://www.bonsaitreegardener.net/bonsai-trees/species/juniper][Juniper Bonsai Tree Care Guide (Juniperus chinensis) - Bonsai Tree Gardener]] :2023jan26:favorites:
+* [[https://patient-portal.physiotec.ca/program/20228018][Patient Portal - Physiotec]] :2023jan26:favorites:
+* [[https://www.healthdoc.ca/listing/dr-joel-weaver-general-surgeon-nepean-on][Dr. Joel Weaver - General Surgeon | Nepean, ON | HealthDoc]] :2023jan26:favorites:
+* [[http://bookmark.placeholder.url/][---]] :2023jan26:latin:trash:
+* [[https://www.englisch-hilfen.de/en/inhalt_grammar.htm][English Grammar Online - Reference and Explanations - Learning English]] :2023jan26:grammar:
+* [[http://nitens.org/taraborelli/tools][Dario Taraborelli: LaTeX on Mac OS X]] :2023jan26:tex_latex:
+* [[http://nitens.org/taraborelli/latex][Dario Taraborelli: The Beauty of LaTeX]] :2023jan26:tex_latex:
+* [[http://xoph.co/20111024/latex-tutorial/][Everything You Wanted to Know About TeX, but Were Too Afraid to Ask | Xophmeister&#39;s World]] :2023jan26:tex_latex:
+* [[http://en.wikibooks.org/wiki/LaTeX][LaTeX - Wikibooks, collection of open-content textbooks]] :2023jan26:tex_latex:
+* [[http://code.google.com/p/latex-lab/][latex-lab - Web based LaTeX editor. - Google Project Hosting]] :2023jan26:tex_latex:
+* [[http://tex.stackexchange.com/][TeX - LaTeX - Stack Exchange]] :2023jan26:tex_latex:
+* [[http://www.tex.ac.uk/cgi-bin/texfaq2html][TeX Frequently Asked Questions]] :2023jan26:tex_latex:
+* [[http://www.texample.net/][TeXample.net]] :2023jan26:tex_latex:
+* [[http://texblog.net/][TeXblog - Typography with TeX and LaTeX]] :2023jan26:tex_latex:
+* [[http://www.texdoc.net/][TeXdoc Online • TeX and LaTeX Documentation]] :2023jan26:tex_latex:
+* [[http://nerdplusart.com/markdown-is-the-future/][nerdplusart | Markdown is the Future of Writing]] :2023jan26:markdown_html5:
+* [[https://github.com/iandol/scrivomatic#requirements][Scrivomatic: Scrivener + Pandoc ]] :2023jan26:citation_tools:
+* [[https://heerdebeer.org/Software/markdown/pandocomatic/#pandocomatic-templates][Pandocomatic]] :2023jan26:citation_tools:
+* [[https://www.rousette.org.uk/archives/pandocomatic-and-scrivomatic/][Pandocomatic and Scrivomatic]] :2023jan26:citation_tools:
+* [[https://owl.purdue.edu/owl/purdue_owl.html][Purdue OWL // Purdue Writing Lab]] :2023jan26:
+* [[https://www.gutenberg.org/files/37134/37134-h/37134-h.htm][The Elements of Style, by William Strunk—A Project Gutenberg eBook]] :2023jan26:
+* [[http://www.subversivecopyeditor.com/blog/][The Subversive Copy Editor Blog]] :2023jan26:
+* [[http://grammar.about.com/][English Grammar & Composition: Tips, Terms, Examples]] :2023jan26:
+* [[https://www.dictionary.com/][Dictionary.com | Meanings and Definitions of Words at Dictionary.com]] :2023jan26:
+* [[http://grammarist.com/][Grammarist - English grammar, usage, and style blog]] :2023jan26:
+* [[http://www.williamzinsserwriter.com/index.html][William Zinsser - Writer]] :2023jan26:
+* [[http://www.howtotype.net/category/all_symbols/][How to type all symbols]] :2023jan26:
+* [[http://www.dailywritingtips.com/][Daily Writing Tips]] :2023jan26:
+* [[https://mathworld.wolfram.com/][Wolfram MathWorld: The Web's Most Extensive Mathematics Resource]] :2023jan26:maths:
+* [[http://www.encyclopediaofmath.org/index.php/Main_Page][Encyclopedia of Mathematics]] :2023jan26:maths:
+* [[http://math.stackexchange.com/][Mathematics - Stack Exchange]] :2023jan26:maths:
+* [[https://www.quantamagazine.org/mathematics/][Mathematics | Quanta Magazine]] :2023jan26:maths:
+* [[http://www.math10.com/][Math - Formulas, Problems, Forum/Free Help, Tests]] :2023jan26:maths:
+* [[http://www.themathcircle.org/][The Math Circle]] :2023jan26:maths:
+* [[http://www.cs.cmu.edu/~rwh/courses/hott/?utm_medium=referral&utm_source=t.co][15-819 Homotopy Type Theory]] :2023jan26:maths:
+* [[http://moezabdelgawad.wordpress.com/][Writing and reading maths]] :2023jan26:maths:
+* [[http://www.storyofmathematics.com/index.html][The Story of Mathematics - A History of Mathematical Thought from Ancient Times to the Modern Day]] :2023jan26:maths:
+* [[http://www.abstractmath.org/MM/MMIntro.htm][Abstract Maths Reference]] :2023jan26:maths:
+* [[http://en.m.wikipedia.org/wiki/Automata_theory][en.m.wikipedia.org/wiki/Automata_theory]] :2023jan26:maths:
+* [[http://groupprops.subwiki.org/wiki/Main_Page][groupprops.subwiki.org/wiki/Main_Page]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Automata_theory][Automata theory - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Hyperbolic_space][Hyperbolic space - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Homogeneous_space][Homogeneous space - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Group_action#Types_of_actions][Group action - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Combinatorics][Combinatorics - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Discrete_mathematics][Discrete mathematics - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Cellular_automaton][Cellular automaton - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Turing_completeness][Turing completeness - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Turing_machine#Universal_Turing_machines][Turing machine - Wikipedia, the free encyclopedia]] :2023jan26:maths:
+* [[http://en.wikipedia.org/wiki/Greek_alphabet][Greek alphabet]] :2023jan26:maths:
+* [[http://docs.joomla.org/][Joomla! Documentation]] :2023jan26:pnsac:
+* [[http://www.projectnorthstar.ca/][Project North Star -- Home Page]] :2023jan26:pnsac:
+* [[https://www.2mhost.com/login/][2MHosting]] :2023jan26:
+* [[https://www.namecheap.com/][Namecheap.com • Cheap Domain Name Registration & Web Hosting]] :2023jan26:
+* [[http://statcounter.com/][StatCounter Projects]] :2023jan26:
+* [[https://www.gardeningknowhow.com/][Gardening Know How - Gardening Is Easy! Let us Show You How]] :2023jan26:gardening:
+* [[https://awaytogarden.com/][A Way to Garden Home -]] :2023jan26:gardening:
+* [[https://gardenbeast.com/][GardenBeast: Online Magazine for Garden Enthusiasts]] :2023jan26:gardening:
+* [[https://diygarden.co.uk/][DIY Garden™- UK's #1 for Garden Ideas & Product Reviews]] :2023jan26:gardening:
+* [[https://www.almanac.com/][The Old Farmer's Almanac - Weather, Gardening, Full Moon, Best Days, Astronomy, News]] :2023jan26:gardening:
+* [[https://www.bbc.co.uk/gardening/basics/techniques/][BBC - Gardening - Gardening Guides: Basics]] :2023jan26:gardening:
+* [[https://garden.org/plants/][Plants Database - Garden.org]] :2023jan26:gardening:
+* [[https://pithandvigor.com/][PITH + VIGOR by Rochelle Greayer | Garden Design. Made Simple.]] :2023jan26:gardening:
+* [[https://www.rhs.org.uk/][RHS - Inspiring everyone to grow / RHS Gardening]] :2023jan26:gardening:
+* [[https://www.gardenguides.com/][Garden Guides | Garden Guides is the ultimate resource for cultivating your green thumb.]] :2023jan26:gardening:
+* [[https://davesgarden.com/guides/pf/][PlantFiles: The Largest Plant Identification Reference Guide - Dave's Garden]] :2023jan26:gardening:
+* [[https://www.kew.org/read-and-watch][Read & watch | Kew]] :2023jan26:gardening:
+* [[https://www.coldclimategardening.com/][Cold Climate Gardening — Hardy plants for hardy souls]] :2023jan26:gardening:
+* [[https://blog.gardeningknowhow.com/][Gardening Know How's Blog - Gardening Made Happy!]] :2023jan26:gardening:
+* [[https://plantcaretoday.com/][Plant Care Today - We Share Plant Growing and Care Tips]] :2023jan26:gardening:
+* [[https://cciottawa.ca/][CCI | Catholic Centre for Immigrants]] :2023jan26:retirement:
+* [[https://retirementtipsandtricks.com/how-to-spend-a-day-in-retirement/][How To Spend A Day In Retirement: Step-by-Step Guide – Retirement Tips and Tricks]] :2023jan26:retirement:
+* [[https://ijustretirednowwhat.com/fulfillment/schedule-your-time-in-retirement/][3 Benefits of Having a Schedule In Retirement]] :2023jan26:retirement:
+* [[https://retirementtipsandtricks.com/how-to-structure-your-retirement-day/][How To Structure Your Retirement Day: 15 Tips – Retirement Tips and Tricks]] :2023jan26:retirement:
+* [[https://www.healthyandnaturalworld.com/the-best-exercises-to-improve-your-posture/][5 Exercises That Will Correct Bad Posture And Fix Back Pain]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=jd3LpgCAoU4&list=PLYc3bb51wHvffS2wWuf7FUi7BU6Rzmo-5&index=28][(235) Releasing the Sternocleidomastoid - Priya Mistry, DDS (the TMJ doc) #tmj #myofascialrelease #tmjd - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=wkwFnLlhcPE&list=PLYc3bb51wHvffS2wWuf7FUi7BU6Rzmo-5&index=27&t=312s][How to Get Rid of Cervicogenic Dizziness | Cervical Dizziness Exercises | Dr. Jon Saunders - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=Ax5Y_gbI9i4&list=PLYc3bb51wHvffS2wWuf7FUi7BU6Rzmo-5&index=26][(235) 2 BEST Cervicogenic Headache Stretches for QUICK Relief - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=_BGczs_axTg&list=PLYc3bb51wHvffS2wWuf7FUi7BU6Rzmo-5&index=25&t=5s][(235) Sternocleidomastoid (SCM): neck pain, headaches, and cervicogenic dizziness - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=PivgGNwVRWc&list=PLYc3bb51wHvffS2wWuf7FUi7BU6Rzmo-5&index=24][FIX Sternocleidomastoid (SCM) Muscle Neck Pain, Headaches & Jaw Pain With This Stretch! - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=eydISQZ194Q&list=PLYc3bb51wHvffS2wWuf7FUi7BU6Rzmo-5&index=23&t=183s][The SCM Muscle of the Neck | A Usual Cause of Neck Pain, Headaches, Dizziness | Sternocleidomastoid - YouTube]] :2023jan26:health:
+* [[https://www.healthline.com/health/sternocleidomastoid-pain#treatment][Sternocleidomastoid Pain: Causes, Symptoms, and Treatments]] :2023jan26:health:
+* [[https://justhealthlifestyle.com/sternocleidomastoid-pain/][Sternocleidomastoid Pain? Remedies and Treatment to Relieve Pain]] :2023jan26:health:
+* [[https://drbodygadget.com/sternocleidomastoid-stretch/][The Best Sternocleidomastoid Stretch (SCM)]] :2023jan26:health:
+* [[https://www.wikihow.com/Relax-Your-Sternocleidomastoid][3 Ways to Relax Your Sternocleidomastoid - wikiHow]] :2023jan26:health:
+* [[https://backintelligence.com/tension-headache-relief/][How To Get Rid of Tension Headaches - Exercises, Causes, Symptoms]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=lvSrH3G44ns][(181) Instant Headache Relief in Seconds with Self Massage. Do-it-Yourself - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=Usi_Qcvbk_c][(181) How to get rid of migraine headaches naturally and fast! - YouTube]] :2023jan26:health:
+* [[https://www.healthline.com/health/pressure-points-for-headaches#how-to-use-pressure-points][Pressure Points for Headaches: Tension, Sinus, and More]] :2023jan26:health:
+* [[https://www.youtube.com/results?search_query=relieve+headache][(181) relieve headache - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=0NX1N6r17IY][(181) 7 Pressure Points To Relieve Your Headache - YouTube]] :2023jan26:health:
+* [[https://www.youtube.com/watch?v=UI5AQhYUrpc&t=385s][(181) How to Relieve a Headache in 30 SECONDS - YouTube]] :2023jan26:health:
+* [[https://duckduckgo.com/?q=benjamin+britten%27s+young+persons+guide+to+the+orchestra+%235&t=vivaldi&ia=web][benjamin britten's young persons guide to the orchestra #5 at DuckDuckGo]] :2023jan26:classical_music:
+* [[https://www.insidethescore.com/library][Inside the Score - Deepen Your Appreciation of Classical and Art Music]] :2023jan26:classical_music:
+* [[https://duckduckgo.com/?q=beneventan+miniscule&t=vivaldi&iax=images&ia=images][beneventan miniscule at DuckDuckGo]] :2023jan26:beneventan_script:
+* [[https://spotlight.vatlib.it/latin-paleography/feature/13-2-the-beneventan-script][13.2 The beneventan script | Latin Paleography - Thematic Pathways on the Web]] :2023jan26:beneventan_script:
+* [[https://www.youtube.com/watch?v=PN38uwIcuDw][(60) How To Read Medieval Manuscripts Written In Visigothic, Merovingian & Beneventan Scripts - YouTube]] :2023jan26:beneventan_script:
+* [[https://www.youtube.com/watch?v=PfTbL20W86I&list=PL4I2_w1DF_YGPvXiAAMUmz6gSFBhk50Ai&index=17][(60) 3 Morning Calligraphy Practice: Beneventan, broad nib 3mm. Text: In all that you do, do it with love - YouTube]] :2023jan26:beneventan_script:
+* [[https://archive.org/details/beneventanscript00loweuoft/page/40/mode/2up][The Beneventan script : a history of the South Italian minuscule : Lowe, Elias Avery, 1879- : Free Download, Borrow, and Streaming : Internet Archive]] :2023jan26:beneventan_script:
+* [[https://cdn.myfonts.net/cdn-cgi/image/width=720,height=360,fit=contain,format=auto/images/pim/10000/103699_b5e7c0e162c8f0e367c0a0af63ad3a6d.png][103699_b5e7c0e162c8f0e367c0a0af63ad3a6d.png (720×360)]] :2023jan26:beneventan_script:
+* [[https://cdn.myfonts.net/cdn-cgi/image/width=720,height=360,fit=contain,format=auto/images/pim/10000/103701_61358a57f0164bb6c98d012c8bc87939.png][103701_61358a57f0164bb6c98d012c8bc87939.png (720×360)]] :2023jan26:beneventan_script:
+* [[https://cdn.myfonts.net/cdn-cgi/image/width=720,height=360,fit=contain,format=auto/images/pim/10000/103697_11b1dfda79565652cff5d87497bf5c50.png][103697_11b1dfda79565652cff5d87497bf5c50.png (720×360)]] :2023jan26:beneventan_script:
+* [[https://blog.digitizedmedievalmanuscripts.org/codicology/medieval-scripts/beneventan-script/][Beneventan Script - Medieval script from Southern Italy and Dalmatia]] :2023jan26:beneventan_script:
+* [[https://en.wikipedia.org/wiki/Beneventan_script#/media/File:Beneventan.jpeg][Beneventan - Beneventan script - Wikipedia]] :2023jan26:beneventan_script:
+* [[https://i.pinimg.com/originals/a3/8c/45/a38c453f0dd963e16c7a788c797fc080.jpg][a38c453f0dd963e16c7a788c797fc080.jpg (320×481)]] :2023jan26:beneventan_script:
+* [[https://i.pinimg.com/originals/63/98/da/6398da5e70d520eb2a009b3e5c24cbc9.jpg][6398da5e70d520eb2a009b3e5c24cbc9.jpg (2560×1920)]] :2023jan26:beneventan_script:
+* [[https://e-codices.unifr.ch/en][e-codices – Virtual Manuscript Library of Switzerland]] :2023jan26:
+* [[https://www.youtube.com/watch?v=umORhG4SU7k][(442) A Short Intro to Medieval Christian Manuscripts - YouTube]] :2023jan26:
+* [[https://www.youtube.com/watch?v=NnjN9GGfV6E][(60) An introduction to Medieval scripts - YouTube]] :2023jan26:
+* [[https://www.youtube.com/watch?v=7w4DUdJ4RiI][(442) English and Latin Paleography: An Introductory Workshop - YouTube]] :2023jan26:
+* [[https://script.byu.edu/Pages/paleography/home][Paleography (introduction)]] :2023jan26:
+* [[https://www.nationalarchives.gov.uk/palaeography/where_to_start.htm][The National Archives | Palaeography tutorial - where to start]] :2023jan26:
+* [[https://www.history.ac.uk/][Institute of Historical Research]] :2023jan26:
+* [[https://yvonneseale.org/blog/2016/03/26/dh-palaeography/][A Beginner’s Guide to Digital Palaeography of Medieval Manuscripts – Yvonne Seale]] :2023jan26:
+* [[https://christdesert.org/rule-of-st-benedict/][Study the Holy Rule of St. Benedict - Benedictine Abbey of Christ in the Desert]] :2023jan26:
+* [[https://blog.digitizedmedievalmanuscripts.org/][Digitized Medieval Manuscripts Blog - A World of Illuminated Manuscripts and Medieval Books]] :2023jan26:
+* [[https://spotlight.vatlib.it/latin-paleography][Latin Paleography - Thematic Pathways on the Web]] :2023jan26:
+* [[https://duckduckgo.com/?q=beneventan+script&t=vivaldi&ia=web][beneventan script at DuckDuckGo]] :2023jan26:
+* [[https://duckduckgo.com/?q=rule+of+st+benedict+illuminated+beneventan+&t=vivaldi&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F63%2F98%2Fda%2F6398da5e70d520eb2a009b3e5c24cbc9.jpg][rule of st benedict illuminated beneventan at DuckDuckGo]] :2023jan26:
+* [[https://duluthbenedictines.org/wp-content/uploads/2018/12/Rule-of-Benedict-Frontispiece.jpg][Rule-of-Benedict-Frontispiece.jpg (1384×2000)]] :2023jan26:
+* [[http://www.thelatinlibrary.com/benedict.html][Rule of St. Benedict]] :2023jan26:
+* [[https://www.loc.gov/item/2021667984][Rule of Saint Benedict. | Library of Congress]] :2023jan26:
+* [[https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/13/46/7/wdl_13467/wdl_13467.pdf][wdl_13467.pdf]] :2023jan26:
+* [[https://www.youtube.com/watch?v=wXYjsjQWFl4][(40) HOW TO WRITE COPPERPLATE SCRIPT CALLIGRAPHY (STRAIGHT PEN HOLDER) - YouTube]] :2023jan26:calligraphy:
+* [[https://www.youtube.com/watch?v=3_PA2ZFEZdQ][(40) Straight vs Oblique Holder - YouTube]] :2023jan26:calligraphy:
+* [[https://www.youtube.com/watch?v=cZNkKYg65dk][(39) Copperplate Script Calligraphy Alphabet A-Z (Calligraphy Tutorial for Beginners) x PAScribe - YouTube]] :2023jan26:calligraphy:
+* [[https://www.youtube.com/watch?v=qwyEERi-hyA][(25) HOW TO fold a Regency Letter - Jane Austen style! | TUTORIAL - YouTube]] :2023jan26:calligraphy:
+* [[http://www.studiofrenchblue.com/portfolio/2016/12/3/ornate-envelope-addressing-by-studiofrenchbluecom][Portfolio — FRENCH BLUE]] :2023jan26:calligraphy:
+* [[https://i.pinimg.com/564x/0e/86/92/0e8692882bc05530aaba673fffcbac69.jpg][0e8692882bc05530aaba673fffcbac69.jpg (563×645)]] :2023jan26:calligraphy:
+* [[https://design.google/library/google-fonts/?utm_source=Google&utm_medium=Fonts&utm_campaign=Article%20Tab][Type & Typography - Library - Google Design]] :2023jan26:typography_and_style:
+* [[https://fonts.google.com/knowledge][Fonts Knowledge - Google Fonts]] :2023jan26:typography_and_style:
+* [[https://fonts.google.com/][Browse Fonts - Google Fonts]] :2023jan26:typography_and_style:
+* [[https://fonts.google.com/icons][Material Symbols and Icons - Google Fonts]] :2023jan26:typography_and_style:
+* [[https://creedinslowmotion.com/2022/10/26/some-videos-worth-watching/][Some videos worth watching – The Creed in Slow Motion]] :2023jan26:justinmartyr:
+* [[https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab][An Academic Workflow: Zotero & Obsidian | by Alexandra Phelan | Medium]] :2023jan26:pkm_and_research:
+* [[https://www.youtube.com/watch?v=JnS3g68zCXw][(153) HOW TO TAKE SMART NOTES by Sönke Ahrens | Core Message - YouTube]] :2023jan26:pkm_and_research:
+* [[https://obsidian.md/][Obsidian]] :2023jan26:pkm_and_research:
+* [[https://medium.com/illumination/my-obsidian-setup-part-1-3a3bb8071bc7][My Obsidian Setup (Part 1). Obsidian is an excellent tool for… | by Nuno Campos | ILLUMINATION | Medium]] :2023jan26:pkm_and_research:
+* [[https://tfthacker.substack.com/p/dashboard-a-simple-organization-and-navigation-method-for-obsidian-vaults-2b1982d023a0][Dashboard++ — a simple organization and navigation method for Obsidian Vaults]] :2023jan26:pkm_and_research:
+* [[https://zettelkasten.de/introduction/][Introduction to the Zettelkasten Method • Zettelkasten Method]] :2023jan26:pkm_and_research:
+* [[https://www.youtube.com/watch?v=ym26gT798lQ][(125) Obsidian setup for 2023 - YouTube]] :2023jan26:pkm_and_research:
+* [[https://www.youtube.com/watch?v=an8iBB_8ShE&list=PL7oLu8NfQd86ZT19TSjZHreCztRnsY2VV&index=1][(124) YAML in Obsidian - A Prerequesite For Dataview - YouTube]] :2023jan26:pkm_and_research:
+* [[https://www.youtube.com/watch?v=8yjNuiSBSAM][(124) Automate Your Vault With Dataview - How To Use Dataview in Obsidian - YouTube]] :2023jan26:pkm_and_research:
+* [[https://www.youtube.com/watch?v=vLBd_ADeKIw][(124) Obsidian Canvas - YouTube]] :2023jan26:pkm_and_research:
+* [[https://www.youtube.com/watch?v=mMpVMuGBGe8][(124) 📝️ Zotero 6 Updated Obsidian Zettelkasten Workflow For Research Paper Note-Taking 📝️ - YouTube]] :2023jan26:pkm_and_research:
+* [[https://betterhumans.pub/obsidian-tutorial-for-academic-writing-87b038060522][Obsidian Tutorial for Academic Writing | by Leonardo Castorina | Better Humans]] :2023jan26:pkm_and_research:
+* [[https://quickref.me/vim][Vim Cheat Sheet & Quick Reference]] :2023jan26:vim_and_neovim:
+* [[https://vimhelp.org/quickref.txt.html][Vim: quickref.txt]] :2023jan26:vim_and_neovim:
+* [[https://neovim.io/doc/user/quickref.html][Quickref - Neovim docs]] :2023jan26:vim_and_neovim:
+* [[https://neovim.io/][Home - Neovim]] :2023jan26:vim_and_neovim:
+* [[https://www.lunarvim.org/][LunarVim | LunarVim]] :2023jan26:vim_and_neovim:
+* [[https://vimawesome.com/][Vim Awesome]] :2023jan26:vim_and_neovim:
+* [[https://www.youtube.com/watch?v=6VbOLOuiHUI&list=WL&index=11&t=375s][(91) Neovim is Better - YouTube]] :2023jan26:vim_and_neovim:
+* [[https://github.com/neovim/neovim][neovim/neovim: Vim-fork focused on extensibility and usability]] :2023jan26:vim_and_neovim:
+* [[https://github.com/rockerBOO/awesome-neovim#preconfigured-configuration][rockerBOO/awesome-neovim: Collections of awesome neovim plugins.]] :2023jan26:vim_and_neovim:
+* [[https://www.nerdfonts.com/][Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher]] :2023jan26:vim_and_neovim:
+* [[https://mattermost.com/blog/turning-neovim-into-a-full-fledged-code-editor-with-lua/][Turning Neovim into a Full-Fledged Code Editor with Lua - Mattermost]] :2023jan26:vim_and_neovim:
+* [[http://www.lua.org/][The Programming Language Lua]] :2023jan26:lua:
+* [[https://learnxinyminutes.com/docs/lua/][Learn Lua in Y Minutes]] :2023jan26:lua:
+* [[https://www.youtube.com/watch?v=iMacxZQMPXs][(79) Lua Tutorial - YouTube]] :2023jan26:lua:
+* [[http://lua-users.org/wiki/LuaDirectory][lua-users wiki: Lua Directory]] :2023jan26:lua:
+* [[https://dev.to/mr_destructive/configure-neovim-in-lua-4can][Configure Neovim in Lua - DEV Community 👩‍💻👨‍💻]] :2023jan26:lua:
+* [[https://github.com/nanotee/nvim-lua-guide][nanotee/nvim-lua-guide: A guide to using Lua in Neovim]] :2023jan26:lua:
+* [[https://github.com/milisims/nvim-luaref][milisims/nvim-luaref: Add a vim :help reference for lua]] :2023jan26:lua:
+* [[https://quickref.me/emacs][Emacs Cheat Sheet & Quick Reference]] :2023jan26:emacs:
+* [[https://orgmode.org/org.html][The Org Manual]] :2023jan26:emacs:
+* [[https://orgmode.org/][Org mode for Emacs]] :2023jan26:emacs:
+* [[https://protesilaos.com/emacs/denote#h:f3bdac2c-4704-4a51-948c-a789a2589790][Denote (denote.el) | Protesilaos Stavrou]] :2023jan26:emacs:
+* [[https://github.com/magnars/.emacs.d/blob/master/init.el][init.el]] :2023jan26:emacs:
+* [[https://github.com/jedcn/learning-elisp][Learning ELISP]] :2023jan26:emacs:
+* [[https://github.com/emacs-evil/evil][evil mode]] :2023jan26:emacs:
+* [[http://joostkremers.github.io/pandoc-mode/][Introduction | Pandoc-mode]] :2023jan26:emacs:
+* [[https://emacs.blog/2021/08/26/mvc-minimum-viable-configuration/][Beginners Emacs Configuration: Getting Started | The Emacs Blog]] :2023jan26:emacs:
+* [[https://planet.emacslife.com/][Planet Emacslife]] :2023jan26:emacs:
+* [[https://sachachua.com/blog/category/emacs-news/][category - emacs-news :: Sacha Chua]] :2023jan26:emacs:
+* [[https://www.youtube.com/watch?v=WW7LxxrTs5Y][(106) Emacs from scratch - YouTube]] :2023jan26:emacs:
+* [[https://gitlab.com/skybert/my-little-friends/-/blob/2022-emacs-from-scratch/emacs/.emacs][emacs/.emacs · 2022-emacs-from-scratch · Torstein Krause Johansen / my-little-friends · GitLab]] :2023jan26:emacs:
+* [[https://www.youtube.com/playlist?list=PL5--8gKSku15uYCnmxWPO17Dq6hVabAB4][(142) The Church of Emacs - YouTube]] :2023jan26:emacs:
+* [[https://www.youtube.com/playlist?list=PLNJWazvift25KnHDwYlhwrrgr60wtpQOB][(111) Emacs - YouTube]] :2023jan26:emacs:
+* [[https://www.youtube.com/watch?v=Bu7nF9hPSts][(111) Emacs - 10 - Treemacs - YouTube]] :2023jan26:emacs:
+* [[https://gitlab.com/dwt1/dotfiles/-/tree/master][Derek Taylor / Dotfiles]] :2023jan26:emacs:
+* [[https://zzamboni.org/post/beautifying-org-mode-in-emacs/][zzamboni.org | Beautifying Org Mode in Emacs]] :2023jan26:emacs:
+* [[https://sachachua.com/dotemacs/index.html][Sacha Chua's Emacs configuration]] :2023jan26:emacs:
+* [[https://github.com/sachac/.emacs.d/blob/gh-pages/Sacha.el][Sacha's init.el]] :2023jan26:emacs:
+* [[https://jwiegley.github.io/use-package/][use-package]] :2023jan26:emacs:
+* [[https://prelude.emacsredux.com/en/latest/][Emacs Prelude - Prelude: A sleek, modern, simple and powerful Emacs experience for everyone]] :2023jan26:emacs:
+* [[https://github.com/bbatsov/prelude/][Prelude Emacs]] :2023jan26:emacs:
+* [[https://github.com/doomemacs/doomemacs/blob/master/docs/getting_started.org#packages-are-eagerly-loaded][Doom Emacs]] :2023jan26:emacs:
+* [[https://yusbk.github.io/2021/04/27/doom-emacs-tips/][Doom tips]] :2023jan26:emacs:
+* [[https://github.com/jarun/buku][buku: Personal mini-web in text]] :2023jan26:cli_tools:
+* [[https://github.com/mosegontar/pinku][Pinku: A Pinboard-to-buku importation utility]] :2023jan26:cli_tools:
+* [[https://pandoc.org/index.html][Pandoc - index]] :2023jan26:cli_tools:
+* [[https://github.com/ogham/exa][exa ogham/exa]] :2023jan26:cli_tools:
+* [[https://github.com/xwmx/nb][nb https://github.com/xwmx/nb#password-protected-encrypted-notes-and-bookmarks]] :2023jan26:cli_tools:
+* [[https://www.chrisatmachine.com/blog/category/macOS/01-macos-developer-setup][MacOS Developer Setup]] :2023jan26:cli_tools:
+* [[https://midnight-commander.org/][Midnight Commander]] :2023jan26:cli_tools:
+* [[https://www.youtube.com/watch?v=fJOkuaihAek&list=PLRiHAWwt3g5MCcqbD7tNXhcw9LpKxv722&index=26][Midnight Commander Tutorial - YouTube]] :2023jan26:cli_tools:
+* [[https://manual.raycast.com/][Raycast Manual]] :2023jan26:cli_tools:
+* [[https://sw.kovidgoyal.net/kitty/overview/#configuring-kitty][Overview - kitty]] :2023jan26:cli_tools:
+* [[https://github.com/aristocratos/btop][btop: A monitor of resources]] :2023jan26:cli_tools:
+* [[https://quickref.me/yaml][YAML Cheat Sheet & Quick Reference]] :2023jan26:cheatsheets:
+* [[https://quickref.me/regex][RegEX Cheat Sheet & Quick Reference]] :2023jan26:cheatsheets:
+* [[https://quickref.me/css][CSS 3 Cheat Sheet & Quick Reference]] :2023jan26:cheatsheets:
+* [[https://quickref.me/python][Python Cheat Sheet & Quick Reference]] :2023jan26:cheatsheets:
+* [[https://quickref.me/][QuickRef.ME - Quick Reference Cheat Sheet]] :2023jan26:cheatsheets:
+* [[https://ranartblog.com/about.html][Ran Art Blog | Website Statistics]] :2023jan26:drawing:
+* [[https://www.youtube.com/watch?v=meQHGJrntno][(136) How to Draw an Airplane: Realistic Pencil Drawing - YouTube]] :2023jan26:drawing:
+* [[https://www.youtube.com/watch?v=0lJy61KMT88][(136) Aircraft Drawing in Perspective ADVANCED - YouTube]] :2023jan26:drawing:
+* [[https://www.youtube.com/watch?v=H_XXYdqYZD8][(136) Easy AIRPLANE for beginners graphite drawing - YouTube]] :2023jan26:drawing:
+* [[https://adventureswithart.com/drawing-realistically-7-tips/][Drawing Realistically: 7 Tips for Teaching Yourself - Adventures with Art]] :2023jan26:drawing:
+* [[https://support.apple.com/en-us/HT206985][Add your Desktop and Documents files to iCloud Drive - Apple Support]] :2023jan26:mac:
+* [[https://macmost.com/mac-basics][Mac Basics]] :2023jan26:mac:
+* [[https://www.youtube.com/@macmost/playlists][(152) macmostvideo - YouTube]] :2023jan26:mac:
+* [[https://www.ncf.ca/en/][Home - National Capital FreeNet]] :2023jan26:ncf:
+* [[https://www.ncf.ca/ncf/home/tools/dslStatement.jsp][Your DSL account]] :2023jan26:ncf:
+* [[https://help.ncf.ca/Main_Page][Support]] :2023jan26:ncf:
+* [[https://help.ncf.ca/Restart_your_modem_periodically][Restart your modem periodically - Support]] :2023jan26:ncf:
+* [[https://help.ncf.ca/Modem_Web_Interface][Modem Web Interface - Support]] :2023jan26:ncf:
+* [[https://help.ncf.ca/Line_Stats][Line Stats - Support]] :2023jan26:ncf:
+* [[https://help.ncf.ca/Tips_(DSL)][Tips (DSL) - Support]] :2023jan26:ncf:
+* [[https://www.ncf.ca/en/speedtest/][Speed Test - National Capital FreeNet]] :2023jan26:ncf:
+* [[https://ubuntu.com/][Enterprise Open Source and Linux | Ubuntu]] :2023jan26:linux:
+* [[https://scrivener.tenderapp.com/help/kb/features-and-usage][Scrivener knowledge base, usage articles]] :scrivener:writing:
+* [[https://www.sagemath.org/index.html][Sage, computer algebra system]] :cas:mathematics:sage:
+* [[https://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_3][Python -- beginer-level tutorial.]] :programming:python:sage:
+* [[https://docs.python.org/3/tutorial/][The Python Tutorial]] :programming:python:sage:
+* [[https://www.itmaybeahack.com/homepage/books/python.html][Building skills in Python]] :programming:python:sage:
+* [[https://edwardtufte.github.io/tufte-css/][Tufte CSS]] :css:style:
+* [[https://tufte-latex.github.io/tufte-latex/][Tufte-LaTeX]] :latex:
+* [[https://github.com/edwardtufte/tufte-css][tufte-css GitHub]] :css:tufte:
+* [[https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/][Use Midnight Commander like a pro – Igor Klimer’s personal site]] :cli:mc:tools:
+* [[https://www.gnu.org/software/emacs/manual/efaq.html][Emacs FAQ - GNU Project - Free Software Foundation (FSF)]] :emacs_faq:
+* [[https://www.gnu.org/software/emacs/refcards/index.html][GNU Emacs Reference Cards - GNU Project - Free Software Foundation]] :emacs_reference_cards:
+* [[http://www.jonathanleroux.org/bibtex-mode.html#0511][BibTeX-Mode for GNU Emacs]] :bibtex:emacs:org_ref:
+* [[https://orgmode.org/worg/org-contrib/babel/][Babel: Active Code in Org]] :babel:emacs:org:
+* [[https://lucidmanager.org/productivity/emacs-bibtex-mode/][Manage your literature with Emacs BibTeX Mode]] :bibtex:emacs:
+* [[https://www.masteringemacs.org][Mastering Emacs]] :emacs:
+* [[https://ogbe.net/emacs/references][Reference Management]] :emacs:org_ref:
+* [[https://config.daviwil.com/emacs][Emacs Configuration - config.daviwil.com]] :config:emacs:
+* [[https://www.scss.tcd.ie/~sulimanm/posts/denote-bibliography.html][Managing a bibliography of BiBTeX entries with Denote]] :bibtex:citations:denote:emacs:
+* [[https://github.com/namilus/denote-menu][GitHub - namilus/denote-menu: View and filter Denote files in a tabulated list]] :bibtex:citations:denote:emacs:
+* [[https://github.com/vedang/pdf-tools][GitHub - vedang/pdf-tools: Emacs support library for PDF files.]] :emacs:pdf:
+* [[https://github.com/bastibe/org-static-blog/][GitHub - bastibe/org-static-blog: A static site generator using org-mode]] :blog:emacs:web:
