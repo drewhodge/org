@@ -1103,3 +1103,7 @@
 * [[https://github.com/namilus/denote-menu][GitHub - namilus/denote-menu: View and filter Denote files in a tabulated list]] :bibtex:citations:denote:emacs:
 * [[https://github.com/vedang/pdf-tools][GitHub - vedang/pdf-tools: Emacs support library for PDF files.]] :emacs:pdf:
 * [[https://github.com/bastibe/org-static-blog/][GitHub - bastibe/org-static-blog: A static site generator using org-mode]] :blog:emacs:web:
+* [[https://nobiot.github.io/org-remark/][Org-remark User Manual]] :emacs:highlighting:org:research:
+* [[https://evil.readthedocs.io/en/latest/index.html][Evil — Evil 1.14.0 documentation]] :emacs:evil_mode:
+* [[https://www.djcbsoftware.nl/code/mu/mu4e/index.html#SEC_Contents][Top (Mu4e 1.8.11 user manual)]] :emacs:email:mu4e:
+* [[https://www.djcbsoftware.nl/code/mu/mu4e/MSGV-Keybindings.html][MSGV Keybindings (Mu4e 1.8.11 user manual)]] :emacs:email:mu4e:
