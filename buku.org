@@ -1107,3 +1107,30 @@
 * [[https://evil.readthedocs.io/en/latest/index.html][Evil — Evil 1.14.0 documentation]] :emacs:evil_mode:
 * [[https://www.djcbsoftware.nl/code/mu/mu4e/index.html#SEC_Contents][Top (Mu4e 1.8.11 user manual)]] :emacs:email:mu4e:
 * [[https://www.djcbsoftware.nl/code/mu/mu4e/MSGV-Keybindings.html][MSGV Keybindings (Mu4e 1.8.11 user manual)]] :emacs:email:mu4e:
+* [[https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm][Documents of the Second Vatican Council]] :catholicism:christianity:theology:vaticanii:
+* [[https://tyndalehouse.com][Tyndale House]] :biblicalscholarship:catholicism:christianity:theology:
+* [[http://greekstudytool.com/][greekstudytool.com - Biblical Greek Readings From The New Testement]] :2023mar06:nt_greek:
+* [[https://logeion.uchicago.edu/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82][https://logeion.uchicago.edu/λόγος]] :2023mar06:nt_greek:
+* [[https://grammaticus.co/][Explore the Ancient World with a Grammaticus as Your Guide]] :2023mar06:nt_greek:
+* [[https://grammaticus.co/best-greek-new-testament/][Best Physical Greek New Testament for Newly-Minted Hellenists]] :2023mar06:nt_greek:
+* [[https://www.esv.org/][THGNT at ESV.org]] :2023mar06:nt_greek:
+* [[https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/50/10001/19999/ch/dfd12e610a886e62bed30cd69fc13b4b/][GNT NA28 :: academic-bible.com]] :2023mar06:nt_greek:
+* [[http://www.ibiblio.org/koine/][Biblical Greek: Learning New Testament and Septuagint Greek]] :2023mar06:nt_greek:
+* [[https://ianwscott.blog/2019/11/05/which-greek-dictionary-should-i-buy/][Which Greek Dictionary Should I Buy? – Ian W. Scott]] :2023mar06:nt_greek:
+* [[https://ianwscott.blog/2022/05/19/which-greek-new-testament-should-i-use/][Which Greek New Testament Should I Use? – Ian W. Scott]] :2023mar06:nt_greek:
+* [[http://www.drshirley.org/greek/textbook02/contents.html][Contents - Online Greek Textbook]] :2023mar06:nt_greek:
+* [[https://freegreek.online/][Home - Free Greek. Forever.]] :2023mar06:nt_greek:
+* [[https://freegreek.online/resources/][Resources - Free Greek. Forever.]] :2023mar06:nt_greek:
+* [[https://hellenisticgreek.com/][Greek Language and Linguistics: Grammar Table of Contents]] :2023mar06:nt_greek:
+* [[https://www.youtube.com/@profschuler][(15) Mark Schuler - YouTube]] :2023mar06:nt_greek:
+* [[https://www.morling.edu.au/courses/new-testament-greek-online/][Free Course: New Testament Greek Online | Morling College]] :2023mar06:nt_greek:
+* [[http://www.greekdoc.com/bible/index.html][Koine Greek Documents]] :2023mar06:nt_greek:
+* [[https://www.stepbible.org/?q=version=ESV|version=CPDV|reference=Gen.1&options=HNVUG][Gen 1 | ESV | STEP | In the beginning, God created the heavens and the earth.]] :2023mar06:nt_greek:
+* [[https://apps.apple.com/us/app/blue-letter-bible/id365547505?platform=ipad][Blue Letter Bible on the App Store]] :2023mar06:nt_greek:
+* [[http://biblicalhumanities.org/dashboard/][Dashboard]] :2023mar06:nt_greek:
+* [[https://github.com/biblenerd/awesome-bible-developer-resources][biblenerd/awesome-bible-developer-resources: A curated list of awesome resources for developers (and other nerds) working with biblical texts and related tools]] :2023mar06:nt_greek:
+* [[https://www.csntm.org/][The Center for the Study of New Testament Manuscripts]] :2023mar06:nt_greek:
+* [[https://greek-language.com/Fonts.html][Greek Language and Linguistics: Fonts]] :2023mar06:nt_greek:
+* [[https://tyndalehouse.com/explore/videos/][Videos - Tyndale House]] :2023mar06:nt_greek:
+* [[https://github.com/eliranwong/UniqueBible][eliranwong/UniqueBible Wiki]] :2023mar06:nt_greek:
+* [[https://greekcntr.org/home/index.htm][Center for New Testament Restoration]] :2023mar06:nt_greek:
